@@ -1,0 +1,2022 @@
+Meteorite	Name ASU	# Type Class Location Weight	(g)
+Aba	Panu 2096 Chondrite L3 Nigeria 594.66
+Abbott	 1233 Chondrite H3-6 New	Mexico,	USA 112.7
+Abee 701 Chondrite EH4 Alberta,	Canada 868.6
+Abernathy 473 Chondrite L6 Texas,	USA 550.2
+Acapulco 1163 Achondrite Acapulcoite Guerrero,	Mexico 48.5
+Acfer	091 1524 Chondrite LL5-6 Tamanghasset,	Algeria 41
+Acfer	166 1536 Chondrite H3-5	 Tamanghasset,	Algeria 36.8
+Acfer	214 1812 Chondrite CH3 Tamanghasset,	Algeria 2.48
+Acfer	366 2010 Chondrite CH3 Libya 0.1
+Achilles 596 Chondrite H5 Kansas,	USA 178.7
+Acme 516 Chondrite H5 New	Mexico,	USA 35247.3
+Adams	County 2 Chondrite H5 Colorado,	USA 178.7
+Addison 2104 Chondrite Alabama,	USA 17.95
+Admire 8 Pallasite PMG Kansas,	USA 26391
+Adrian 298 Chondrite H4 Texas,	USA 7721.2
+Agen 542 Chondrite H5 Aquitaine,	France 19.3
+Aggie	Creek 981 Iron IIIAB Alaska,	USA 14.5
+Agoudal 1879 Iron IIAB Meknes-Tafilalet,	Morocco
+Agoult 1460 Achondrite Eucrite Meknes-Tafilalet,	Morocco 2.1
+Aguada 968 Chondrite L6 Cordoba,	Argentina 11.6
+Aguas	Zarcas 2121 Chondrite CM2 Costa	Rica
+Ahumada 354 Pallasite PMG Chihuahua,	Mexico 336.5
+Ainsworth 420 Iron IIAB Nebraska,	USA 236.3
+Ainsworth	(Central	Missouri) 304 Iron IIAB Nebraska,	USA 994.5
+Ainsworth	(Ponca	Creek) 421 Iron IIAB Nebraska,	USA 1258.3
+Aioun	el	Atrouss 1151 Achondrite Diogenite-pm Hodh	el	Gharbi,	Mauritania 109.7
+Aiquile 2056 Chondrite H5 Cochabamba,	Bolivia 61
+Aïr 1326 Chondrite L6 Agadez,	Niger 38.2
+Akron	(1940) 462 Chondrite H6 Colorado,	USA 252.4
+Akwanga 1842 Chondrite H Plateau,	Nigeria 42.5
+Al	Rais 1406 Chondrite CR2-an Al	Madinah,	Saudi	Arabia 2.3
+Alais 557 Chondrite CI1 Languedoc-Roussillon,	France 4.12
+Alamogordo 77 Chondrite H5 New	Mexico,	USA 1317.7
+Alamosa 50 Chondrite L6 Colorado,	USA 1.2
+Albareto 515 Chondrite L/LL4 Emilia-Romagna,Italy 13.2
+Albin	(pallasite) 314 Pallasite PMG Wyoming,	USA 7676.6
+Albin	(stone) 532 Chondrite L Wyoming,	USA 8
+Albion 1568 Iron IVA Washington,	USA 1204.9
+Aldama	(a) 1324 Iron IIIAB Chihuahua,	Mexico 218.7
+Aleppo 957 Chondrite L6 Halab,	Syria 13.4
+Alessandria 563 Chondrite H5 Piemonte,	Italy 9.7
+Alexander	County 569 Iron IAB	complex North	Carolina,	USA 1
+Alfianello 4 Chondrite L6 Lombardia,	Italy 152.8
+Allan	Hills	A76009 1149 Chondrite L6 Antarctica 541.5
+Allegan 7 Chondrite H5 Michigan,	USA 218.94
+Allende 818 Chondrite CV3 Chihuahua,	Mexico 41880.71
+Almahata	Sitta 1676 Achondrite Ureilite-an Nahr	an	Nil,	Sudan 33.89
+Alta'ameem 1162 Chondrite LL5 At	Ta'min,	Iraq 49.9
+Altonah 168 Iron IVA Utah,	USA 3579.8
+Ambapur	Nagla 622 Chondrite H5 Uttar	Pradesh,	India 18.3
+Andover 1345 Chondrite L6 Maine,	USA 37.7
+Angers 1116 Chondrite L6 Pays	de	la	Loire,	France 0.1
+Anoka 710 Iron IAB-sLM Minnesota,	USA 234.9
+Anson 1057 Chondrite L6 Kansas,	USA 63.2
+Anthony 6 Chondrite H5 Kansas,	USA 51.4
+Apache	Junction 1741 Iron IIIAB Arizona,	USA 1606.2
+Appley	Bridge 199 Chondrite LL6 England,	UK 2.8
+Apt 1108 Chondrite L6 Provence-Alpes-Cote	d'Azur,	France 0.6
+Arapahoe 465 Chondrite L5 Colorado,	USA 4855.1
+Arbol	Solo 1046 Chondrite H5 San	Luis,	Argentina 44.88
+Arcadia 390 Chondrite LL6 Nebraska,	USA 2303.5
+Archie 175 Chondrite H6 Missouri,	USA 136.4
+Argonia 458 Pallasite PMG-an Kansas,	USA 22.6
+Arispe 9 Iron IC Sonora,	Mexico 133582.56
+Arlington 1 Iron IIE-an Minnesota,	USA 56
+Arltunga 920 Iron IID-an Northern	Territory,	Australia 24.4
+Armel 813 Chondrite L5 Colorado,	USA 168.7
+Arriba 328 Chondrite L5 Colorado,	USA 12019.9
+Arroyo	Aguiar 1696 Chondrite H5 Santa	Fe,	Argentina 12.27
+Ash	Creek 1637 Chondrite L6 Texas,	USA 369.8
+Asheville 558 Iron IIIAB North	Carolina,	USA 260.7
+Ashfork 717 Iron IAB-MG Arizona,	USA 218
+Ashmore 875 Chondrite H5 Texas,	USA 84.1
+Assam 1101 Chondrite L5 Meghalaya,	India 21.9
+Assisi 573 Chondrite H5 Umbria,	Italy 5.04
+Aswan 1018 Iron IAB-ung Al	Wadi	al	Jadid,	Egypt 8.8
+Atarra 627 Chondrite L4 Uttar	Pradesh,	India 40.6
+Atemajac 5 Chondrite L6 Jalisco,	Mexico 5.7
+Athens 608 Chondrite LL6 Alabama,	USA 0.1
+Atlanta 427 Chondrite EL6 Louisiana,	USA 654.2
+Atwood 754 Chondrite L6 Colorado,	USA 37.4
+Aubres 1236 Achondrite Aubrite Rhone-Alpes,	France 10.5
+Aubrey	Hills 1778 Chondrite H6 Arizona,	USA 26
+Auburn 443 Iron IIG Alabama,	USA 2168.4
+Augustinovka 725 Iron IIIAB Zaporozh'ye,	Ukraine 20.9
+Aumale 969 Chondrite L6 Bouira,	Algeria 12.7
+Aumieres 1117 Chondrite L6 Languedoc-Roussillon,	France 21.5
+Aurora 85 Chondrite H4 New	Mexico,	USA 222.3
+Ausson 3 Chondrite L5 Midi-Pyrenees,	France 348.6
+Avanhandava 1991 Chondrite H4 Sao	Paulo,	Brazil 1.451
+Axtell 1525 Chondrite CV3 Texas,	USA 355.1
+Aztec 437 Chondrite L6 New	Mexico,	USA 30.4
+Babb's	Mill	(Troost's	Iron) 290 Iron Ungrouped Tennessee,	USA 1666.9
+Bachmut 576 Chondrite L6 Donetsk,	Ukraine 41.7
+Bacubirito 17 Iron Ungrouped Sinaloa,	Mexico 164.9
+Bagdad 1244 Iron IIIAB Arizona,	USA 1731.5
+Bahjoi 641 Iron IAB-sLL Uttar	Pradesh,	India 10.1
+Bald	Eagle 810 Iron IIIAB Pennsylvania,	USA 3.9
+Bald	Mountain 302 Chondrite L4 North	Carolina,	USA 98.3
+Baldwyn 1400 Chondrite L6 Mississippi,	USA 65.8
+Balfour	Downs 879 Iron IAB-sLL Western	Australia,	Australia 54.8
+Ballinger 12 Iron IAB-MG Texas,	USA 58.3
+Ballinoo 271 Iron IIC Western	Australia,	Australia 209.8
+Ban	Cho	Lae 1818 Chondrite H5 Chiang	Mai,	Thailand 31.09
+Bandong 1021 Chondrite LL6 Jawa	Barat,	Indonesia 24
+Banten 1839 Chondrite CM2 Jawa	Barat,	Indonesia 4.35
+Barbotan 338 Chondrite H5 Aquitaine,	France 121.7
+Barea 781 Mesosiderite A1 La	Rioja,	Spain 85.1
+Barranca	Blanca 536 Iron IIE-an Atacama,	Chile 161.5
+Barratta 16 Chondrite L4 New	South	Wales,Australia 1290.7
+Barwell 1235 Chondrite L5 England,	UK 190.7
+Barwise 779 Chondrite H5 Texas,	USA 82.1
+Bassikounou 2006 Chondrite H5 Hodh	ech	Chargui,	Mauritania 14.26
+Bath 713 Chondrite H4 South	Dakota,	USA 185.9
+Bath	Furnace 243 Chondrite L6 Kentucky,	USA 56.3
+Battle	Mountain 1769 Chondrite L6 Nevada,	USA 256.8
+Baxter 419 Chondrite L6 Missouri,	USA 239.9
+Bayard 1262 Chondrite L5 Nebraska,	USA 118.1
+Bear	Creek 352 Iron IIIAB Colorado,	USA 90495.1
+Bear	Lodge 286 Iron IIIAB Wyoming,	USA 307
+Beardsley 134 Chondrite H5 Kansas,	USA 3568.2
+Beaver 1222 Chondrite L5 Oklahoma,	USA 99.7
+Beaver	Creek 15 Chondrite H5 Canada 103.05
+Beeler 989 Chondrite LL6 Kansas,	USA 767.9
+Beenham 414 Chondrite L5 New	Mexico,	USA 1638.4
+Bella	Roca 266 Iron IIIAB Mexico 735.7
+Belle	Plaine 1230 Chondrite L6 Kansas,	USA 64.2
+Bells 1226 Chondrite C2-ung Texas,	USA 95
+Belmont 1200 Chondrite H6 Wisconsin,	USA 106.7
+Benares	(a) 724 Chondrite LL4 India 75.7
+Bencubbin 871 Chondrite CBa Australia 28.19
+Bendegó 355 Iron IC brazil 903.6
+Benedict 1043 Iron IIIAB Nebraska,	USA 166.3
+Benenitra 2117 Chondrite L6 Madagascar,	Africa
+Benguerir 1692 Chondrite LL6 Morocco 145.2
+Benld 1173 Chondrite H6 Illinois,	USA 88.6
+Bennett	County 374 Iron IIAB South	Dakota,	USA 1168.4
+Benoni 837 Chondrite H6 South	Africa 14.4
+Bensour 1465 Chondrite LL6 Morocco 117.9
+Benton 530 Chondrite LL6 Canada 14.4
+Béréba 811 Achondrite Eucrite-mmict Burkina	faso 96.4
+Berlanguillas 1109 Chondrite L6 Spain 12.4
+Berthoud 2059 Achondrite Eucrite-mmict Colorado,	USA 3.74
+Bethlehem 1118 Chondrite H New	York,	USA 0.5
+Bethune 472 Chondrite EH4/5 Colorado,	USA 11.8
+Bholghati 1605 Achondrite Howardite India
+Bialystok 903 Achondrite Eucrite-pmict Poland 11.9
+Bielokrynitschie 150 Chondrite H4 Ukraine 35.4
+Big	Rock	Ronga 1372 Chondrite H6 Australia 37.7
+Bilanga 1450 Achondrite Diogenite Burkina	Faso 31.9
+Bilibino 1334 Iron IIAB Russia 201.3
+Billings 151 Iron IIIAB Missouri,	USA 482.4
+Billygoat	Donga 1371 Chondrite L6 Australia 26.1
+Bingera 878 Iron IIAB Australia 39.4
+Bischtübe 932 Iron IAB-sLL Russia 220.3
+Bishop	Canyon 360 Iron IVA Colorado,	USA 187.45
+Bishopville 212 Achondrite Aubrite South	Carolina,	USA 1216.3
+Bishunpur 618 Chondrite LL3.15 India 7.4
+Bison 1397 Chondrite LL6 Kansas,	USA 210.9
+Bitburg 156 Iron IAB	complex Germany 708
+Bjurböle 14 Chondrite L/LL4 Finland 432.3
+Black	Mountain 245 Iron IAB-MG North	Carolina,	USA 354.9
+Blakeman 1246 Chondrite L4 Kansas,	USA 105.9
+Blanket 203 Chondrite L6 Texas,	USA 84.1
+Blansko 1110 Chondrite H6 Slovakia 3.1
+Bledsoe 915 Chondrite H4 Texas,	USA 100.7
+Blithfield 959 Chondrite EL6 Canada 10.62
+Blue	Eagle 1711 Chondrite R3-6 Nevada,	USA 1.56
+Bluewater 899 Iron IIIAB New	Mexico,	USA 308.4
+Bluff	(a) 13 Chondrite L5 Texas,	USA 244.9
+Bluff	(b) 1539 Chondrite L4 Texas,	USA 454.2
+Bocas 11 Chondrite L6 Mexico 0.7
+Bodaibo 773 Iron IVA Russia 152.7
+Boerne 270 Chondrite H6 Texas,	USA 45.9
+Boguslavka 749 Iron IIAB Russia 155.4
+Bohumilitz 767 Iron IAB-MG Czech	Republic 465.5
+Bolivia 277 Iron IAB-MG (Bolivia?) 98.3
+Bondoc 684 Mesosiderite B4 Philippines 109.9
+Bonita	Springs 702 Chondrite H5 Florida,USA 275.6
+Borgo	San	Donino 826 Chondrite LL6 Italy 36.4
+Bori 621 Chondrite L6 India 8.2
+Boriskino 1703 Chondrite CM2 Orenburgskaya	oblast',	Russia 1.94
+Borkut 733 Chondrite L5 Zakarpats'ka,	Ukraine 33.9
+Botetourt	County 1081 Iron Virginia,	USA 2.1
+Bouse 1564 Chondrite L4-6 Arizona,	USA 19.96
+Bouvante 1290 Achondrite Eucrite-mmict Rhone-Alpes,France 78.2
+Bovedy 1373 Chondrite L3 Northern	Ireland,	UK 117.9
+Bowesmont 709 Chondrite L6 North	Dakota,	USA 119.33
+Boxhole 432 Iron IIIAB Northern	Territory,	Australia 4809.9
+Brady 384 Chondrite L6 Texas,	USA 711.9
+Brahin 744 Pallasite PMG Gomel',	Belarus 168.7
+Brainard 1781 Iron IIIAB Nebraska,	USA 16.7
+Braunau 226 Iron IIAB Vychodocesky,	Czech	Republic 65.6
+Braunschweig 1844 Chondrite L6 Niedersachsen,Germany 8.02
+Breitscheid 1019 Chondrite H5 Hessen,	Germany 0.9
+Bremervörde 336 Chondrite H/L3.9 Niedersachsen,	Germany 84.33
+Brenham 10 Pallasite PMG-am Kansas,	USA 43812.97
+Brewster 483 Chondrite L6 Kansas,	USA 5750.7
+Bridgewater 935 Iron IID North	Carolina,	USA 36.5
+Briggsdale 535 Iron IIIAB Colorado,	USA 906.9
+Briscoe 477 Chondrite L5 Texas,	USA 579.8
+Bristol 216 Iron IVA Tennessee,	USA 1644.3
+Broken	Bow 401 Chondrite H4 Nebraska,	USA 1593.8
+Brownell 1245 Chondrite L6 Kansas,	USA 17.6
+Brownfield	(1937) 367 Chondrite H3.7 Texas,	USA 173
+Brownfield	(1964) 763 Chondrite H5 Texas,	USA 101.8
+Brownfield	(iron) 776 Iron IID Texas,	USA 63.3
+Bruceville 1420 Chondrite L6 California,	USA 480.1
+Bruderheim 705 Chondrite L6 Alberta,	Canada 7083.6
+Bruno 132 Iron IIAB Saskatchewan,Canada 28.2
+Buck	Mountain	Wash 1586 Chondrite H3-5 Arizona,	USA
+Budulan 750 Mesosiderite B4 Russia 196.6
+Buenaventura 1275 Iron IIIAB Chihuahua,	Mexico 4543.1
+Bumble	Bee 2064 Chondrite H6 Arizona,	USA 40.69
+Bur-Gheluai 381 Chondrite H5 Mudug,	Somalia 183.8
+Burdett 753 Chondrite H5 Kansas,	USA 74.9
+Burkett 165 Iron IAB-MG Texas,	USA 100.7
+Burlington 329 Iron IIIE New	York,	USA 57.5
+Burnabbie 1364 Chondrite H5 Western	Australia,Australia 138.5
+Burns	Flat 1398 Chondrite L6 Oklahoma,	USA 129.4
+Bursa 734 Chondrite L6 Bursa,	Turkey 191.6
+Buschhof 958 Chondrite L6 Latvia 74.1
+Bushnell 446 Chondrite H4 Nebraska,	USA 514.6
+Bustee 632 Achondrite Aubrite Uttar	Pradesh,	India 10.6
+Butler 137 Iron Ungrouped Missouri,	USA 543.4
+Butsura 253 Chondrite H6 Bihar,	India 147.2
+Buzzard	Coulee 1768 Chondrite H4 Saskatchewan,	Canada 52.87
+Cabezo	de	Mayo 789 Chondrite L/LL6 Murcia,	Spain 37
+Cacaria 19 Iron IIIAB Durango,	Mexico 71.4
+Cachari 1601 Achondrite Eucrite-mmict Buenos	Aires,	Argentina
+Caddo	County 1293 Iron IAB-ung Oklahoma,	USA 873.8
+Calama	001 1861 Achondrite Ureilite Antofagasta,	Chile 17.8
+Calico	Rock 706 Iron IIAB Arkansas,	USA 530.7
+Calliham 670 Chondrite L6 Texas,	USA 4466.3
+Cambria 359 Iron Ungrouped New	York,	USA 340
+Camel	Donga 1274 Achondrite Eucrite-mmict Western	Australia,Australia 5127.6
+Camp	Creek 1722 Chondrite H4 Arizona,	USA
+Campbellsville 351 Iron IIIAB Kentucky,	USA 261.1
+Campo	del	Cielo 761 Iron IAB-MG Chaco,	Argentina 16794
+Çanakkale 731 Chondrite L6 Canakkale,	Turkey 34.2
+Cañellas 790 Chondrite H4 Cataluna,	Spain 32.6
+Cangas	de	Onis 1102 Chondrite H5 Asturias,	Spain 20.7
+Canon	City 1026 Chondrite H6 Colorado,	USA 7.24
+Canton 926 Iron IIIAB Georgia,	USA 41.3
+Canyon	City 158 Iron IIIAB California,	USA 635.6
+Canyon	Diablo 34 Iron IAB-MG Arizona,	USA 407457.5
+Canyon	Diablo	(1936) 371 Iron IAB-MG Arizona,	USA 1297.7
+Canyon	Diablo	(1949) 586 Iron IAB-MG Arizona,	USA 748.6
+Canyon	Diablo	(Bloody	Basin 723 Iron IAB-MG Arizona,	USA 4742.4
+Canyon	Diablo	(Camp	Verde) 440 Iron IAB-MG Arizona,	USA 59494
+Canyon	Diablo	(Fair	Oaks) 722 Iron IAB-MG Arizona,	USA 718.7
+Canyon	Diablo	(Ganado) 452 Iron IAB-MG Arizona,	USA 19.6
+Canyon	Diablo	(Monument	Rock) 587 Iron IAB-MG Arizona,	USA 25.7
+Canyon	Diablo	(Oildale) 900 Iron IAB-MG Arizona,	USA 36.6
+Canyon	Diablo	(Palisades	Park) 520 Iron IAB-MG Texas,	USA 26.6
+Canyon	Diablo	(Roswell) 213 Iron IAB-MG	 New	Mexico,	USA 30.1
+Canyon	Diablo	(Wickenburg) 455 Iron IAB-MG Arizona,	USA 40.9
+Canyonlands 906 Chondrite H6 Utah,	USA 174.7
+Cape	Girardeau 236 Chondrite H6 Missouri,	USA 8.1
+Cape	of	Good	Hope 262 Iron IVB Eastern	Cape,	South	Africa 130.5
+Cape	York 403 Iron IIIAB Nordgronland,	Greenland 4901.9
+Carancas 1615 Chondrite H4-5 Puno,	Peru 88.45
+Carbo 494 Iron IID Sonora,	Mexico 3716.4
+Carichic 1250 Chondrite H5 Chihuahua,	Mexico 90.6
+Carlton 35 Iron IAB-sLM Texas,	USA 4843.8
+Carnegie 1314 Chondrite L6 Oklahoma,	USA 32.3
+Carraweena 715 Chondrite L3.9 South	Australia,	Australia 20.8
+Carthage 739 Iron IIIAB Tennessee,	USA 84.8
+Carver 1513 Iron IIAB Alabama,	USA 1132.2
+Casas	Grandes 36 Iron IIIAB Chihuahua,	Mexico 762
+Casey	County 1082 Iron IAB-MG Kentucky,	USA 1602.2
+Cashion 971 Chondrite H4 Oklahoma,	USA 6.3
+Casilda 1237 Chondrite H5 Santa	Fe,	Argentina 9.6
+Casimiro	de	Abreu 603 Iron IIIAB Rio	de	Janeiro,	Brazil 180
+Castalia 347 Chondrite H5 North	Carolina,	USA 40.74
+Castine 1119 Chondrite L6 Maine,	USA 25.1
+Cat	Mountain 1540 Chondrite L5 Arizona,	USA 171.4
+Catalina	001 2033 Chondrite L3 Antofagasta,	Chile 115.24
+Catalina	037 1804 Achondrite Ureilite Antofagasta,	Chile 45.2
+Cavour 504 Chondrite H6 South	Dakota,	USA 84.3
+Cedar	(Kansas) 408 Chondrite H6 Kansas,	USA 1020.4
+Cedar	(Texas) 20 Chondrite H4 Texas,	USA 502.3
+Cedartown 885 Iron IIAB Georgia,	USA 14.3
+Cee	Vee 988 Chondrite H5 Texas,	USA 6.7
+Centerville 792 Chondrite H5 South	Dakota,	USA 0.7
+Cereseto 1120 Chondrite H5 Piemonte,	Italy 0.4
+Cerro	los	Calvos 1319 Chondrite H4-an Zacatecas,	Mexico 57.5
+Chainpur 424 Chondrite LL3.4 Uttar	Pradesh,	India 26
+Chajari 1056 Chondrite L5 Entre	Rios,	Argentina 12.6
+Chamberlin 474 Chondrite H5 Texas,	USA 642.1
+Chandakapur 729 Chondrite L5 Maharashtra,	India 126
+Chandler 1723 Chondrite L6 Arizona,	USA
+Channing 317 Chondrite H5 Texas,	USA 1947.9
+Chantonnay 341 Chondrite L6 Centre,	France 347.3
+Charcas 356 Iron IIIAB San	Luis	Potosi,	Mexico 413.6
+Charcas	(Descubridora) 39 Iron IIIAB Mexico 252.7
+Charlotte 382 Iron IVA Tennessee,	USA 174.6
+Charsonville 538 Chondrite H6 Centre,	France 88.2
+Charwallas 562 Chondrite H6 Haryana,	India 60.8
+Chassigny 580 Achondrite Martian	(chassignite) Champagne-Ardenne,	France 6.25
+Château-Renard 333 Chondrite L6 Centre,	France 197.1
+Chaves 1607 Achondrite Howardite Vila	Real,	Portugal
+Chela 1459 Chondrite H4 Shinyanga,	Tanzania 7.96
+Chelyabinsk 1801 Chondrite LL5 Chelyabinskaya	oblast',	Russia 1448.65
+Chergach 1618 Chondrite H5 Tombouctou,	Mali 690.9
+Cherokee	Springs 319 Chondrite LL6 South	Carolina,	USA 46
+Chesterville 251 Iron IIAB South	Carolina,	USA 2487.2
+Chiang	Khan 1229 Chondrite H6 Loei,	Thailand 12.85
+Chicago	Valley 1649 Chondrite L5 California,	USA 4.88
+Chico	Hills 845 Chondrite H4 New	Mexico,	USA 464.5
+Chicora 500 Chondrite LL6 Pennsylvania,	USA 0.4
+Chihuahua	City 27 Iron IC Chihuahua,	Mexico 13517
+Chilkoot 29 Iron IIIAB Alaska,	USA 16.3
+Chinautla 272 Iron IVA-an Guatamala,	Guatemala 39.6
+Chinga 748 Iron Ungrouped Republika	Tyva,	Russia 412.1
+Chitado 1239 Chondrite L6 Cunene,	Angola 17.9
+Choteau 1809 Pallasite Ungrouped Montana,	USA
+Chulafinnee 551 Iron IIIAB Alabama,	USA 3.8
+Chupaderos 31 Iron IIIAB Chihuahua,	Mexico 1180.9
+Chupaderos	(Adargas) 30 Iron IIIAB Mexico 107.4
+Chupaderos	(Cuernavaca) 28 Iron IIIAB Mexico 56.1
+Clarendon(c) 2084 Chondrite L4 Texas,	USA 59.8
+Clareton 287 Chondrite L6 Wyoming,	USA 438
+Clark	County 181 Iron IIIF Kentucky,	USA 1709
+Claxton 1520 Chondrite L6 Georgia,	USA 1
+Claytonville 986 Chondrite L5 Texas,	USA 17.4
+Cleburne 1476 Iron IVA Texas,	USA
+Cleveland 242 Iron IIIAB Georgia,	USA 271.9
+Clinton 512 Iron Tennessee,	USA 9.9
+Clover	Springs 646 Mesosiderite A2 Arizona,	USA 415.03
+Clovis	(no.	1) 1168 Chondrite H3.6 New	Mexico,	USA 142.5
+Clovis	(no.	2) 708 Chondrite L6 New	Mexico,	USA 528.2
+Coahuila 32 Iron IIAB Coahuila,	Mexico 20605.4
+Coahuila	(Sanchez	Estate) 293 Iron IIAB Mexico 498
+Cobija 930 Chondrite H6 Antofagasta,	Chile 26.8
+Cocklebiddy 970 Chondrite H5 Western	Australia,	Australia 8.1
+Colby	(Kansas) 466 Chondrite H5 Kansas,	USA 945.1
+Colby	(Wisconsin) 21 Chondrite L6 Wisconsin,	USA 322.9
+Cold	Bokkeveld 578 Chondrite CM2 Western	Cape,	South	Africa 31.9
+Coldwater	(iron) 23 Iron Iron Kansas,	USA 1926.1
+Coldwater	(stone) 24 Chondrite H5 Kansas,	USA 2735.6
+Colfax 931 Iron IAB-ung North	Carolina,	USA 71.9
+Collescipoli 855 Chondrite H5 Umbria,	Italy 4.2
+Colomera 1713 Iron IIE Andalucia,	Spain
+Colonia	Obrera 1032 Iron IIIE Durango,	Mexico 10423.2
+Colony 1213 Chondrite CO3.0	 Oklahoma,	USA 31.4
+Concho 714 Chondrite L6 Texas,	USA 129.4
+Cook	(unclassified) 1346 Unknown Australia 125.7
+Cook	007 1827 Chondrite H4 South	Australia,	Australia 6.94
+Coolac 933 Iron IAB-MG New	South	Wales,	Australia 420
+Coolidge 397 Chondrite C4-ung Kansas,	USA 654.14
+Coomandook 1271 Chondrite H6 South	Australia,	Australia 36.5
+Coon	Butte 533 Chondrite L6 Arizona,	USA 581.73
+Coonana 1387 Chondrite H4 South	Australia,	Australia 40.5
+Coopertown 37 Iron IIIE Tennessee,	USA 1687
+Coorara 1366 Chondrite L6 Western	Australia,	Australia 21.1
+Cope 116 Chondrite H5 Colorado,	USA 1385.6
+Copiapo 1309 Iron IAB-MG Atacama,	Chile 16.1
+Cordes 1639 Chondrite H4 Arizona,	USA 45.55
+Cordova	prov. 2099 Iron South	Carolina,	USA
+Corowa 853 Iron IIF New	South	Wales,	Australia 69.8
+Correo 1203 Chondrite H4 New	Mexico,	USA 107.9
+Cortez 482 Chondrite H6 Colorado,	USA 115.6
+Cosby's	Creek 255 Iron IAB-MG Tennessee,	USA 1118.9
+Costilla	Peak 190 Iron IIIAB New	Mexico,	USA 2097.5
+Cotesfield 25 Chondrite L6 Nebraska,	USA 29.5
+Cottonwood 645 Chondrite H5 Arizona,	USA 672.8
+Covert 22 Chondrite H5 Kansas,	USA 15542.2
+Coyote	Spring 1650 Chondrite H5 Nevada,	USA 38.44
+Crab	Hole 1211 Chondrite L6 Western	Australia,	Australia 9.4
+Crab	Orchard 33 Mesosiderite A1 Tennessee,	USA 575.3
+Cranberry	Plains 1083 Iron IVA Virginia,	USA 11.8
+Cranbourne 540 Iron IAB-MG Victoria,	Australia 41.9
+Cranganore 619 Chondrite L6 Kerala,	India 27.5
+Cratheús	(1950) 2086 Iron IIC Brazil 1.2
+Crescent 1227 Chondrite CM2 Oklahoma,	USA 26.8
+Creston 2021 Chondrite L6 California 26.92
+Cross	Roads 1084 Chondrite H5 North	Carolina,	USA 6.3
+Crow	Peak 1512 Iron IIAB South	Dakota,	USA 6217.1
+Cruz	del	Aire 794 Iron Ungrouped Nuevo	Leon,	Mexico 648.4
+Culbertson 417 Chondrite H4 Nebraska,	USA 83
+Cullison 215 Chondrite H4 Kansas,	USA 253.32
+Cumberland	Falls 26 Achondrite Aubrite Kentucky,	USA 511.4
+Cynthiana 719 Chondrite L/LL4 Kentucky,	USA 1.4
+D'Orbigny 1577 Achondrite Angrite Buenos	Aires,	Argentina 44.53
+Dale	Dry	Lake 668 Chondrite L3.7 California,	USA 32.5
+Dalgaranga 676 Mesosiderite A Western	Australia,Australia 937.2
+Dalgety	Downs 678 Chondrite L4 Western	Australia,	Australia 439.1
+Dalhart 839 Chondrite H5 Texas,	USA 79.2
+Dalton 396 Iron IIIAB Georgia,	USA 70.7
+Danby	Dry	Lake 1421 Chondrite H6 California,	USA 8.9
+Dandapur 948 Chondrite L6 Uttar	Pradesh,	India 21.5
+Daniel's	Kuil 571 Chondrite EL6 North	Cape,	South	Africa 0.3
+Danville 570 Chondrite L6 Alabama,	USA 0.4
+Dar	al	Gani	023 1481 Chondrite CO3 Al	Jufrah,	Libya 20
+Dar	al	Gani	067 1474 Chondrite CO3 Al	Jufrah,	Libya 45.5
+Dar	al	Gani	262 1614 Achondrite Lunar	(anorth) Al	Jufrah,	Libya	 0.01
+Dar	al	Gani	313 1472 Chondrite L/LL3 Murzuq,	Libya 62.8
+Dar	al	Gani	340 1688 Achondrite Ureilite Al	Jufrah,	Libya 46.8
+Dar	al	Gani	417 1911 Chondrite R3-4 Al	Jufrah,	Libya 0.12
+Dar	al	Gani	429 1706 Chondrite C3-ung Al	Jufrah,	Libya 11.14
+Dar	al	Gani	430 1707 Chondrite C3-ung al	Jufrah,	Libya 4.1
+Dar	al	Gani	628 1734 Chondrite CO3 Al	Jufrah,	Libya 10.9
+Dar	al	Gani	647 1984 Achondrite Eucrite-mmict Al	Jufrah,	Libya 0.08
+Dar	al	Gani	749 1822 Chondrite CO3 Sabha,	Libya 117.6
+Dar	al	Gani	862 1657 Chondrite H3 Al	Jufrah,	Libya 1.5
+Dar	el	Kahal 2013 Chondrite H5-6 Mali 30.295
+Daraj	001 1304 Chondrite H5 Gharyan,	Libya 397.5
+Darmstadt 1077 Chondrite H5 Hessen,	Germany 0.07
+Dashoguz 1463 Chondrite H5 Tashauz,	Turkmenistan 18.5
+Davy	(a) 1591 Chondrite L4 Texas,	USA 103.7
+Davy	(b) 1590 Chondrite H4 Texas,	USA 75.6
+Dawn	(a) 1587 Chondrite H6 Texas,	USA 91.3
+Dayton 653 Iron IAB-sLH Ohio,	USA 261.4
+De	Nova 471 Chondrite L6 Colorado,	USA 4583.4
+Deakin	007 1531 Chondrite H6 Western	Australia,Australia 15.3
+Deal 1111 Chondrite L6 New	Jersey,	USA 1
+Deep	Springs 357 Iron Ungrouped North	Carolina,	USA 330.4
+Delegate 650 Iron IIIAB-an New	South	Wales,	Australia 38.8
+Deming 1762 Chondrite H5 New	Mexico,	USA 6.92
+Demsa	 1817 Chondrite H6 Adamawa,	Nigeria 41.47
+Densmore	(1879) 1521 Chondrite L6 Kansas,	USA 6.97
+Densmore	(1950) 801 Chondrite H6 Kansas,	USA 92.4
+Denton	County 1085 Iron IIIAB Texas,	USA 34.9
+Deport 148 Iron IAB-sLL Texas,	USA 204.3
+Dexter 890 Iron IIIAB Texas,	USA 55.2
+Dhajala 1053 Chondrite H3.8 Gujarat,	India 98.61
+Dhofar	0020 1497 Chondrite H4/5 Zufar,	Oman 5
+Dhofar	0125 1791 Achondrite Acapulcoite Zufar,	Oman 125.62
+Dhofar	0485 1794 Achondrite Howardite Zufar,	Oman 205.6
+Dhofar	081 1918 Achondrite Lunar	(anorth) Zufar,	Oman 0.048
+Dhofar	1128 1687 Achondrite Ureilite Zufar,	Oman 154.99
+Dhofar	1180 1554 Achondrite Lunar Oman 1.1
+Dhofar	1433 1669 Chondrite H5 Zufar,	Oman 248.5
+Dhofar	1514 1699 Chondrite R3.6 Zufar,	Oman 20.22
+Dhofar	1519 1698 Achondrite Ureilite Zufar,	Oman 21.41
+Dhofar	1575 1689 Achondrite Ureilite Zufar,	Oman 1001.5
+Dhofar	1619 1704 Chondrite CM2 Zufar,	Oman 3.32
+Dhofar	700 1869 Achondrite diogenite Oman 3.22
+Dhurmsala 41 Chondrite LL6 Himachal	Pradesh,	India 176.7
+Diablo	Pass 1565 Chondrite L6 Arizona,	USA 19.44
+Dimboola 972 Chondrite H5 Victoria,	Australia 7.2
+Dimitrovgrad 1307 Iron IIIAB Serbia,	Serbia	and	Montenegro 18
+Dimmitt 584 Chondrite H3.7 Texas,	USA 3252.9
+Dingo	Pup	Donga 1583 Achondrite Ureilite Western	Australia,	Australia
+Dishchii'bikoh 2000 Chondrite LL7 Arizona,	USA 79.5
+Dispatch 663 Chondrite H Kansas,	USA 151.4
+Divnoe 1538 Achondrite Ungrouped Starvropol'skiy	kray,Russia 3.7
+Dix 184 Chondrite L6 Nebraska,	USA 16272
+Djati-Pengilon 566 Chondrite H6 Jawa	Timur,Indonesia 176.5
+Djebel	In-Azzene 1391 Iron IIIAB Adrar,	Algeria 664.4
+Djermaia 1559 Chondrite H Chari-Baguirmi,	Chad 15.5
+Dokachi 624 Chondrite H5 Dhaka,	Bangladesh 158.9
+Domanitch 727 Chondrite L5 Bursa,	Turkey 5.6
+Dong	Ujimqin	Qi 1622 Mesosiderite Nei	Mongol,	China 3083.8
+Dora	(pallasite) 822 Pallasite PMG New	Mexico,	USA 1156.5
+Doroninsk 1103 Chondrite H5-7 Chitinskaya	oblast',	Russia 94.7
+Dos	Cabezas 1454 Chondrite L5 Arizona,	USA 40.7
+Dougherty 1508 Chondrite L6 Texas,	USA 33.3
+Doyleville 131 Chondrite H5 Colorado,	USA 34.3
+Drake	Creek 365 Chondrite L6 Tennessee,	USA 35.4
+Dresden	(Kansas) 778 Chondrite H5 Kansas,	USA 94.1
+Dronino 1678 Iron Ungrouped Ryazanskaya	oblast',Russia
+Drum	Mountains 657 Iron IIIAB Utah,	USA 650.4
+Dubrovnik 914 Chondrite L3-6 Croatia 9.7
+Duchesne 40 Iron IVA Utah,	USA 2414.7
+Duel	Hill	(1854) 257 Iron IVA North	Carolina,	USA 1220
+Dumont 1728 Iron IVB Texas,	USA 197.1
+Dungannon 368 Iron IAB-MG Virginia,	USA 144.5
+Durala 1121 Chondrite L6 Punjab,	India 8
+Durango 38 Iron IIIAB Mexico 189.3
+Durango 475 Iron IIIAB Mexico 189.3
+Dwaleni 841 Chondrite H4-6 Shiselweni,	Swaziland 74.9
+Dwight 468 Chondrite L6 Kansas,	USA 1410.5
+Dyalpur 1611 Achondrite Ureilite Uttar	Pradesh,	India
+Eagle 1315 Chondrite EL6 Nebraska,	USA 65.9
+Eagle	Station 196 Pallasite PES Kentucky,	USA 210.1
+Eagles	Nest 1408 Achondrite Brachinite Australia 8.8
+Edmond 1256 Chondrite H6 Kansas,	USA 56.6
+Edmonson	(a) 777 Chondrite L6 Texas,	USA 104.1
+Edmonson	(b) 1231 Chondrite H4 Texas,	USA 78.1
+Efremovka 960 Chondrite CV3 Pavlodar,	Kazakhstan 26.5
+Eichstädt 1122 Chondrite H5 Bayern,	Germany 0.7
+El	Burro 469 Iron IIAB Coahuila,	Mexico 991.1
+El	Capitan 46 Iron IIIAB New	Mexico,	USA 99.8
+El	Gouanem 1686 Achondrite Ureilite Guelmim-Es-Semara,	Morocco 1123.5
+El	Mirage 1001 Iron IIAB Arizona,	USA 500.7
+El	Paso 1320 Chondrite LL4 Texas,	USA 2.9
+El	Perdido 947 Chondrite H5 Buenos	Aires,	Argentina 30.2
+El	Qoseir 1004 Iron Ungrouped Al	Bahr	al	Ahmar,	Egypt 5.8
+El	Sampal 1014 Iron IIIAB Chubut,	Argentina 103886.4
+Elba 892 Chondrite H5 Colorado,	USA 79.5
+Elbert 1864 Chondrite LL6 Colorado,	USA 0.756
+Elbogen 1086 Iron IID Zapadocesky,Czech	Republic 15.3
+Elenovka 745 Chondrite L5 Donetsk,	Ukraine 386.3
+Eli	Elwah 149 Chondrite L6 New	South	Wales,	Australia 29.9
+Elkhart 505 Chondrite H5 Kansas,	USA 340.2
+Ella	Island 1150 Chondrite L6 Ostgronland,	Greenland 152.2
+Ellerslie 1276 Chondrite L5 Queensland,	Australia 209.6
+Ellicott 1749 Iron IAB-ung Colorado,	USA 23.5
+Ellis	County 1251 Chondrite H6 Kansas,	USA 168.3
+Elm	Creek 43 Chondrite H4 Kansas,	USA 51.1
+Elsinora 1353 Chondrite H5 New	South	Wales,	Australia 18.1
+Elyria 911 Iron IIIAB Kansas,	USA 217.7
+Emery 840 Mesosiderite A3 South	Dakota,	USA 324.1
+Enon 118 Iron Ungrouped Ohio,	USA 242
+Ensisheim 332 Chondrite LL6 Alsace,	France 201
+Ergheo 45 Chondrite L5 Shabeellaha	Hoose,	Somalia 194.3
+Erie 751 Chondrite L6 Colorado,	USA 603.7
+Erxleben 553 Chondrite H6 Sachsen-Anhalt,	Germany 196.09
+Esnandes 1123 Chondrite L6 Poitou-Charentes,	France 3.2
+Esperance 1395 Chondrite L/LL3.4 Western	Australia,	Australia 48.1
+Esquel 1380 Pallasite PMG Chubut,	Argentina 13
+Essex 1467 Chondrite H5 California,	USA 125.3
+Estacado 44 Chondrite H6 Texas,	USA 6326.8
+Estherville 42 Mesosiderite Mesosiderite-A3/4 Iowa,	USA 334.01
+Ethiudna 1270 Chondrite L4 South	Australia,	Australia 13.8
+Etter 916 Chondrite L5 Texas,	USA 506.1
+Eunice 991 Chondrite H5 Texas,	USA 31
+Eva 893 Chondrite H5 Oklahoma,	USA 106.7
+Fairfield 1294 Iron IAB-MG Ohio,	USA 104.9
+Fairview 1350 Iron IIIAB Texas,	USA 789.6
+Faith 797 Chondrite H5 South	Dakota,	USA 83807.5
+Falsey	Draw 1425 Chondrite L6 New	Mexico,	USA 77.7
+Farley 316 Chondrite H5 New	Mexico,	USA 1967
+Farmington 48 Chondrite L5 Kansas,	USA 1580
+Farnum 402 Chondrite L5 Nebraska,	USA 1315.1
+Faucett 824 Chondrite H5 Missouri,	USA 429.3
+Favars 1124 Chondrite H5 Midi-Pyrenees,	France 8.5
+Fayetteville 327 Chondrite H4 Arkansas,	USA 25.7
+Felix 217 Chondrite CO3.3	 Alabama,	USA 1.9
+Felt 921 Chondrite H6 Oklahoma,	USA 115.2
+Ferguson	Switch 513 Chondrite H5 Texas,	USA 418.3
+Finmarken 47 Pallasite PMG Finnmark,	Norway 84.74
+Finney 711 Chondrite L5 Texas,	USA 54.8
+Fisher 330 Chondrite L6 Minnesota,	USA 31.6
+Flagg 1296 Chondrite L5 Texas,	USA 83.8
+Flagler 1549 Chondrite H3.8 Colorado,	USA 48.6
+Flandreau 1383 Chondrite H5 South	Dakota,	USA 36.2
+Fleming 461 Chondrite H3.7 Colorado,	USA 419.3
+Florence 218 Chondrite H3 Texas,	USA 39.5
+Floyd 894 Chondrite L4 New	Mexico,	USA 110.2
+Floydada 517 Iron IIIAB Texas,	USA 680.4
+Floydada	(b) 1426 Chondrite H5 Texas,	USA 27.2
+Fluvanna	(b) 1269 Chondrite H6 Texas,	USA 34
+Forest	City 49 Chondrite H5 Iowa,	USA 1354.7
+Forest	City 644 Chondrite H5 Iowa,	USA 1354.7
+Forest	Vale 961 Chondrite H4 New	South	Wales,Australia 23.73
+Forestburg	(a) 1592 Chondrite L4 Texas,	USA 90.4
+Forestburg	(b) 1560 Chondrite L5 Texas,	USA 49.8
+Forksville 273 Chondrite L6 Virginia,	USA 85.6
+Forrest	001 1517 Chondrite H5 Western	Australia,Australia
+Forrest	002 1216 Chondrite L6 Western	Australia,	Australia 335.2
+Forsyth 555 Chondrite L6 Georgia,	USA 106.4
+Fort	Pierre 171 Iron IIIAB South	Dakota,	USA 337.5
+Foster 1359 Chondrite H4 Texas,	USA 77.7
+Four	Corners 166 Iron IAB-ung New	Mexico,	USA 507.9
+Franceville 187 Iron IIIAB Colorado,	USA 331.8
+Franconia 1511 Chondrite H5 Arizona,	USA 39.7
+Frankel	City 1225 Chondrite L6 Texas,	USA 77.7
+Frankfort	(iron) 1087 Iron IIIAB Kentucky,	USA 33.4
+Frankfort	(stone) 1068 Achondrite Howardite Alabama,	USA 4.1
+Franklin 762 Chondrite H5 Kentucky,USA 96
+Fremont	Butte 756 Chondrite L4 Colorado,	USA 79.4
+Fukang 1631 Pallasite PMG Xinjiang,	China 747.5
+Fukutomi	 647 Chondrite L5 Kyushu,	Japan 28.8
+Futtehpur 337 Chondrite L6 Uttar	Pradesh,	India 20.7
+Fuzzy	Creek 1475 Iron IVA Texas,	USA 180.2
+Gaines	County	Park 1402 Chondrite H5 Texas,	USA 64.4
+Galatia 1279 Chondrite L6 Kansas,	USA 62.1
+Gambat 629 Chondrite L6 Sind,	Pakistan 30.2
+Gao-Guenie 1405 Chondrite H5 Sissili,	Burkina	Faso 1104.11
+Gao-Guenie	(b) 1464 Chondrite CR Sissili,	Burkina	Faso 3.5
+Garnett 428 Chondrite H4 Kansas,	USA 1372.9
+Garraf 795 Chondrite L6 Cataluna,	Spain 323.9
+Garrison 1063 Chondrite H5 New	Mexico,	USA 45.1
+Gascoyne	Junction 1528 Chondrite H5 Western	Australia,	Australia 26.6
+Gashua 1840 Chondrite L6 Yobe,	Nigeria 6.92
+Gaylord 1302 Chondrite H4 Kansas,	USA 47.2
+Gebel	Kamil 1720 Iron Ungrouped Al	Wadi	al	Jadid,	Egypt 4335
+Georgetown	(iron) 1392 Iron IAB-ung Queensland,Australia 73.4
+Gerona 780 Chondrite H5 Gerona,	Spain 10.6
+Ghubara 999 Chondrite L5 Al	Wusta,	Oman 43.3
+Gibeon 506 Iron IVA Namaland,	Namibia 66506.2
+Gibson 1569 Achondrite Lodranite Western	Australia,	Australia 16.8
+Gifu 648 Chondrite L6 Chubu,	Japan 9.4
+Gila	Bend 1483 Chondrite L5 Arizona,	USA 189.68
+Gilgoin 51 Chondrite H5 New	South	Wales,Australia 13236.5
+Girgenti 531 Chondrite L6 Sicilia,	Italy 14.7
+Git-Git 1695 Chondrite L6 Plateau,	Nigeria 3.36
+Gladstone	(iron) 53 Iron IAB-MG Queensland,Australia 458.3
+Gladstone	(stone) 315 Chondrite H4 New	Mexico,	USA 38562.8
+Glen	Rose	(iron) 1570 Iron Ungrouped Texas,	USA 334.1
+Glendale 2103 Chondrite Arizona,	USA 17.06
+Glenormiston 1655 Iron Ungrouped Queensland,	Australia
+Glorieta	Mountain 52 Pallasite PMG-an New	Mexico,	USA 842.8
+Glorieta	Mountain	(Pojoaque) 210 Pallasite PMG-an New	Mexico,	USA 2.1
+Glorieta	Mountain	(Santa	Fe) 224 Pallasite PMG-an New	Mexico,	USA 19.2
+Gnadenfrei 565 Chondrite H5 Walbryzch,	Poland 0.3
+Goalpara 1604 Achondrite Ureilite Assam,	India
+Gobabeb 1451 Chondrite H4 Swakopmund,Namibia 32.6
+Gold	Basin 1448 Chondrite L4 Arizona,	USA 363
+Gomez 1212 Chondrite L6 Texas,	USA 63.4
+Goodland 425 Chondrite L4 Kansas,	USA 1702.9
+Goose	Creek 1422 Chondrite H5 Kansas,	USA 29.7
+Goose	Lake 438 Iron IAB-sLL California,	USA 357.3
+Gove 1756 Relict	iron Northern	Territory,	Australia 110
+Grady	(1933) 194 Chondrite L3-6 New	Mexico,	USA 22.8
+Grady	(1937) 373 Chondrite H3.7 New	Mexico,	USA 1892.53
+Grady	(c) 912 Chondrite H4 New	Mexico,	USA 101.4
+Granada	Creek 1197 Chondrite H Colorado,	USA 33.8
+Grand	Rapids 54 Iron Ungrouped Michigan,	USA 1195.9
+Grant 275 Iron IIIAB New	Mexico,	USA 103.5
+Grant	(Breece) 18 Iron IIIAB New	Mexico,	USA 371.8
+Grant	County 346 Chondrite L6 Kansas,	USA 467.5
+Grassland 757 Chondrite L4 Texas,	USA 78.4
+Grayton 1280 Chondrite H5 Florida,	USA 72.5
+Great	Bend 1241 Chondrite H6 Kansas,	USA 37.5
+Greenwell	Springs 1331 Chondrite LL4 Louisiana,	USA 62
+Gressk 664 Iron IIAB Minsk,	Belarus 975.6
+Gretna 208 Chondrite L5 Kansas,	USA 28.5
+Griffith 1630 Iron Ungrouped Texas,	USA 543.8
+Grosnaja 939 Chondrite CV3 Chechenskaya	Respublika,	Russia 4.7
+Grüneberg 1125 Chondrite H4 Zielona	Gora,	Poland 0.6
+Gruver 241 Chondrite H4 Texas,	USA 1663.6
+Guadaloupe	County 521 Iron Texas,	USA 20.3
+Guadalupe	y	Calvo 1381 Iron IIAB Chihuahua,	Mexico 1565.7
+Guanghua 1370 Iron IVA Hubei,	China 973
+Guangrao 1518 Chondrite L6 Shandong,	China 46.8
+Guareña 787 Chondrite H6 Extremadura,	Spain 52.2
+Guffey 264 Iron Ungrouped Colorado,	USA 59.4
+Guibga 1007 Chondrite L5 Namentenga,	Burkina	Faso 12.4
+Guilford	County 1088 Iron IIIAB North	Carolina,	USA 21.7
+Guin 1273 Iron Ungrouped Alabama,	USA 337.5
+Gujba 1660 Chondrite CBa Yobe,	Nigeria 14.9
+Gun	Creek 383 Iron Ungrouped Arizona,	USA 42.1
+Gundaring 1155 Iron IIIAB Western	Australia,Australia 17.8
+Gütersloh 1126 Chondrite H3/4 Nordrhein-Westfalen,	Germany 3.1
+Haig 680 Iron IIIAB Western	Australia,	Australia 45.5
+Hainholz 343 Mesosiderite A4 Nordrhein-Westfalen,	Germany 478.3
+Hale	Center	(no.	1) 306 Chondrite L5 Texas,	USA 26.4
+Hale	Center	(no.	2) 305 Chondrite H4 Texas,	USA 24.5
+Hallingeberg 866 Chondrite L3.4 Kalmar,	Sweden 29.3
+Hamburg 2077 Chondrite H4 Michigan,	United	States 1.13
+Hamilton	(Queensland) 806 Chondrite L6 Queensland,	Australia 275.8
+Hamlet 1194 Chondrite LL4 Indiana,	USA 138.5
+Hammadah	al	Hamra	019 1533 Chondrite H6 Gharyan,	Libya 28.1
+Hammadah	al	Hamra	237 1738 Chondrite CBb Ash	Shati',	Libya 3.88
+Hammond 235 Iron Ungrouped Wisconsin,	USA 341.5
+Hammond	Downs 1005 Chondrite H4 Queensland,	Australia 797.9
+Hangman	Crossing 1485 Chondrite H4 Indiana,	USA 11.1
+Happy	(a) 996 Chondrite H3 Texas,	USA 66.3
+Happy	Canyon 1058 Chondrite EL6/7 Texas,	USA 147
+Haraiya 637 Achondrite Eucrite-mmict Uttar	Pradesh,	India 39.9
+Hardesty 1357 Iron IIIAB Oklahoma,	USA 185.8
+Harding	County 491 Chondrite L4 South	Dakota,	USA 34.4
+Hardtner 1028 Chondrite L6 Kansas,	USA 61.7
+Hardwick 429 Chondrite L4 Minnesota,	USA 1985.2
+Harleton 718 Chondrite L6 Texas,	USA 10.7
+Harlowton 1045 Iron IAB-ung Montana,	USA 2682.2
+Harriman	(Of) 1571 Iron IVA Tennessee,	USA 94.1
+Harrison	County 545 Chondrite L6 Indiana,	USA	 272.9
+Harrisonville 176 Chondrite L6 Missouri,	USA	 14556.5
+Hart	Camp 997 Chondrite H6 Texas,	USA 47.3
+Hartley 895 Chondrite L Texas,	USA 51.1
+Hartsel 1550 Chondrite H4 Colorado,	USA
+Haskell 527 Chondrite L5 Texas,	USA 12157.9
+Hasparos 1224 Iron IAB-MG New	Mexico,	USA 434.5
+Hassayampa 1572 Chondrite H4 Arizona,	USA 3851.1
+Hat	Creek 456 Chondrite H4 Wyoming,	USA 130.2
+Hatfield 488 Iron IAB	complex Arkansas,	USA 17
+Haven 597 Chondrite H6 Kansas,	USA 24
+Havero 913 Achondrite Ureilite Turku	Ja	Pori,	Finland 3.3
+Haviland	(a) 407 Chondrite H5 Kansas,	USA 418.9
+Hawk	Springs 311 Chondrite H5 Wyoming,	USA 91.9
+Haxtun 1409 Chondrite H/L4 Colorado,	USA 94.1
+Hayes	Center 481 Chondrite L6 Nebraska,	USA 968.4
+Henbury 193 Iron IIIAB Northern	Territory,	Australia 186561.5
+Henbury	(Nutwood	Downs) 848 Iron IIIAB Australia 78.2
+Hendersonville 183 Chondrite L5 North	Carolina,	USA 250.2
+Heredia 1127 Chondrite H5 Heredia,	Costa	Rica 3.9
+Hermitage	Plains 56 Chondrite L6 New	South	Wales,	Australia 0.7
+Hessle 263 Chondrite H5 Uppsala,	Sweden 618.3
+Hex	River	Mountains 412 Iron IIAB West	Cape,	South	Africa 165.7
+High	Island	Creek 2063 Iron IIIAB Minnesota,	USA 30.3
+High	Possil 1128 Chondrite L6 Scotland,	UK 3.1
+Hildreth 416 Chondrite L5 Nebraska,	USA 1001.3
+Hoba 60 Iron IVB Grootfontein,	Namibia 293.5
+Hobbs 177 Chondrite H4 New	Mexico,	USA 59
+Holbrook 57 Chondrite L/LL6 Arizona,	USA 12413.4
+Holland's	Store 766 Iron IIAB Georgia,	USA 12.4
+Holly 386 Chondrite H4 Colorado,	USA 88.7
+Holyoke 281 Chondrite H4 Colorado,	USA 1540.8
+Homestead 59 Chondrite L5 Iowa,	USA 1017.8
+Honolulu 1104 Chondrite L5 Hawaii,	USA 36.2
+Hope	Creek 1478 Chondrite LL6 Alaska,	USA	 27
+Horace 448 Chondrite H5 Kansas,	USA 3703.6
+Horse	Creek 378 Iron Ungrouped Colorado,	USA 75.2
+Howe 433 Chondrite H5 Texas,	USA 2847.3
+Hraschina 1089 Iron IID Croatia 4.3
+Hub 1424 Chondrite L5 Texas,	USA 47.9
+Huckitta 487 Pallasite PMG-an Northern	Territory,	Australia 2252.9
+Hueco	Tanks 1284 Chondrite L6 Texas,	USA 14.4
+Hughes	001 1390 Chondrite LL6 South	Australia,	Australia 62.8
+Hughes	002 1526 Chondrite L6 South	Australia,	Australia 0.6
+Hughes	005 1527 Achondrite Howardite South	Australia,	Australia
+Hugo	(stone) 344 Chondrite H5 Colorado,	USA 20.1
+Hugoton 280 Chondrite H5 Kansas,	USA 314601.7
+Huizopa 55 Iron IVA Chihuahua,	Mexico 1339.3
+Hunter 1059 Chondrite LL5 Oklahoma,	USA 117.7
+Huntsman 1160 Chondrite H4 Nebraska,	USA 1310.4
+Hvittis 524 Chondrite EL6 Turku	Ja	Pori,	Finland 54.4
+Ibbenbüren 854 Achondrite Diogenite Nordrhein-Westfalen,	Germany 10.1
+Ibitira 1491 Achondrite Eucrite-mmict Minas	Gerais,	Brazil 66
+Idalia 1328 Chondrite H Colorado,	USA 111.4
+Ikhrarene 1365 Chondrite L4 Adrar,	Algeria 55.4
+Ilafegh	008 1535 Chondrite L5 Adrar,	Algeria 16.5
+Ilafegh	013 1534 Chondrite H3.5 Adrar,	Algeria 7.4
+Imilac 295 Pallasite PMG Antofagasta,	Chile 3657.2
+Imilac	(Antofagasta) 656 Pallasite PMG Antofagasta,	Chile 664.1
+Imilac	(Illimaes) 1196 Pallasite PMG Antofagasta,	Chile
+Imilac	(Ollague) 146 Pallasite PMG Antofagasta,	Chile 271
+Imilac	(Port	Orford) 1100 Pallasite PMG Antofagasta,	Chile
+Indarch 63 Chondrite EH4 Baku,	Azerbaijan 222.52
+Independence 1461 Chondrite L6 Missouri,	USA 2.6
+India	(Unclassified) 348 Chondrite OC India
+Indian	Butte 1846 Chondrite H5 Arizona,	USA 126.1
+Indian	Valley 62 Iron IIAB Virginia,	USA 542
+Indianola 435 Chondrite L5 Nebraska,	USA 1221.1
+Ingalls 430 Chondrite H6 Kansas,	USA 120.6
+Ingella	Station 1340 Chondrite H5 Queensland,	Australia 39.9
+Ipiranga 1006 Chondrite H6 Parana,	Brazil 3.3
+Iquique 905 Iron IVB Tarapaca,	Chile 53.8
+Iredell 1040 Iron IIAB Texas,	USA 17.6
+Iron	Creek 1181 Iron IIIAB Alberta,	Canada 9
+Iron	River 804 Iron IVA Michigan,	USA 44.2
+Isheyevo 1580 Chondrite CH/CBb Respublika	Bashkortostan,	Russia 732.94
+Isna 984 Chondrite CO3.8 Al	Wadi	al	Jadid,Egypt 98.1
+Isoulane-n-Amahar 1332 Chondrite L6 Illizi,	Algeria 130.9
+Itqiy 1783 Chondrite EH7-an Saguia	el	Hamra,	Western	Sahara 26.4
+Itzawisis 1715 Pallasite PES Namaland,	Namibia 0.66
+Ivanpah 61 Iron IIIAB California,	USA 82.1
+Ivuna 856 Chondrite CI1 Mbeya.	Tanzania 1.4
+Jackalsfontein 836 Chondrite L6 Western	Cape,	South	Africa 19.9
+Jackson	County 910 Iron IIIAB Michigan,	USA 42.9
+Jajh	deh	Kot	Lalu 617 Chondrite EL6 Sind,	Pakistan 15.6
+Jbilet	Winselwan 1810 Chondrite CM2 Saguia	el	Hamra,	Western	Sahara 80.1
+Jelica 64 Chondrite LL6 Serbia,	Serbia	and	Montenegro 35.7
+Jenny's	Creek 1090 Iron IAB-MG West	Virginia,	USA 18.9
+Jerome	(Idaho) 649 Chondrite L Idaho,	USA 361.9
+Jerome	(Kansas) 237 Chondrite L4 Kansas,	USA 2.7
+Jiddat	al	Harasis	055 1500 Chondrite L4-5 Al	Wusta,	Oman 45.8
+Jiddat	al	Harasis	073 1499 Chondrite L6 Al	Wusta,	Oman 40.1
+Jiddat	al	Harasis	845 1999 Mesosiderite C-2 Al	Wusta,	Oman 107.6
+Jilin 1167 Chondrite H5 Jilin,	China 115.5
+Joe	Wright	Mountain 484 Iron IIIAB Arkansas,	USA 257.6
+Johnson	City 413 Chondrite L6 Kansas,	USA 3251.4
+Johnstown 125 Achondrite Diogenite Colorado,	USA 2062.55
+Jonzac 568 Achondrite Eucrite-mmict Poitou-Charentes,	France 0.1
+Juancheng 1694 Chondrite H5 Shandong,	China 30.32
+Julesburg 1300 Chondrite L3.6 Colorado,	USA 129.8
+Juncal 936 Iron IIIAB Atacama,	Chile 32.1
+Juvinas 65 Achondrite Eucrite-mmict Rhone-Alpes,	France 305.6
+Kaalijarv 498 Iron IAB-MG Estonia 2.1
+Kaba 1072 Chondrite CV3 Hajdu-Bihar,Hungary 1.4
+Kabo 977 Chondrite H4 Kano,	Nigeria 21.6
+Kadonah 1129 Chondrite H6 Uttar	Pradesh,	India 0.1
+Kaffir	(b) 1033 Chondrite H4 Texas,	USA 69.4
+Kainsaz 1193 Chondrite CO3.2 Respublika	Tatarstan,	Russia 11.1
+Kakowa 1130 Chondrite L6 Caras-Severin,	Romania 4.9
+Kaldoonera	Hill 929 Chondrite H6 South	Australia,	Australia 39.8
+Kalkaska 803 Iron IIIAB Michigan,	USA 469.7
+Kalumbi 631 Chondrite L6 Maharashtra,	India 6.1
+Kalvesta 1323 Chondrite H4 Kansas,	USA 90.4
+Kamargoan 2031 Chondrite L6 SP	Golaghat	District,	Assam,	India 23.9
+Kamsagar 620 Chondrite L6 Karnataka,	India 1.8
+Kandahar	(Afghanistan) 901 Chondrite L6 Quandahar,	Afghanistan 10.4
+Kapoeta 827 Achondrite Howardite South	Sudan 180.77
+Karatu 1683 Chondrite LL6 Arusha,	Tanzania
+Karavannoe 2078 Pallasite PES Kirovskaya	oblast',	Russia
+Kargapole 1164 Chondrite H4 Kurganskaya	oblast',	Russia 16.2
+Karkh 163 Chondrite L6 Baluchistan,Pakistan 7.2
+Karoonda 434 Chondrite CK4 South	Australia,	Australia 108.3
+Karval 345 Chondrite H5 Colorado,	USA 227.5
+Katagum 2003 Chondrite L6 Bauchi,	Nigeria 20
+Katol 1838 Chondrite L6 Maharashtra,	India 52.79
+Kaufman 1482 Chondrite L5 Texas,	USA 261.2
+Kayakent 791 Iron IIIAB Eskisehir,	Turkey 150.5
+Kearney 228 Chondrite H5 Nebraska,	USA 37.3
+Kediri 1000 Chondrite L4 Jawa	Timur,Indonesia 2476.8
+Keen	Mountain 654 Iron IIAB Virginia,	USA 208.3
+Kelly 398 Chondrite LL4 Colorado,	USA 780.9
+Kendall	County 67 Iron IAB-ung Texas,	USA 123.5
+Kendleton 1305 Chondrite L4 Texas,	USA 78.9
+Kenna 1049 Achondrite Ureilite New	Mexico,	USA 62.6
+Kenna	(b) 1171 Chondrite L5 New	Mexico,	USA 20.5
+Kenton	County 66 Iron IIIAB Kentucky,	USA 393.3
+Kenton	County	(Williamstown) 161 Iron IIIAB Kentucky,	USA 596.9
+Kerilis 1339 Chondrite H5 Bretagne,	France 11.9
+Kermichel 1148 Chondrite L6 Bretagne,	France 0.6
+Kernouve 339 Chondrite H6 Bretagne,	France 32.9
+Kesen 362 Chondrite H4 Tohoku,	Japan 686.59
+Keyes 470 Chondrite L6 Oklahoma,	USA 58.7
+Khairpur 615 Chondrite EL6 Punjab,	Pakistan 28.6
+Khanpur 904 Chondrite LL5 Uttar	Pradesh,	India 11.7
+Kharkov 1131 Chondrite L6 Sunny,	Ukraine
+Kheneg	Ljouâd 2065 Chondrite LL5/6 Guelmime	Es	Smara,	Morocco,	Africa 34.4
+Khetri 1132 Chondrite H6 Rajasthan,	India 2.44
+Khohar 623 Chondrite L3.6 Madhya	Pradesh,India 81.54
+Khor	Temiki 857 Achondrite Aubrite Ash	Sharqiyah,	Sudan 3.7
+Kiel 1020 Chondrite L6 Schleswig-Holstein,Germany 0.7
+Kielpa 1376 Chondrite H5 Southern	Australia,	Australia 50.2
+Kilabo 1693 Chondrite LL6 Jigawa,	Nigeria 17.33
+Kilbourn 250 Chondrite H5 Wisconsin,	USA 41.51
+Killeter 1133 Chondrite H6 Ulster,	Ireland 6.7
+Kimble	County 1299 Chondrite H6 Texas,	USA 28.3
+Kimbolton 1219 Chondrite H4 Wanganui-Manawatu,	New	Zealand 11.2
+Kingfisher 601 Chondrite L5 Oklahoma,	USA 143.4
+Kingston 189 Iron Ungrouped New	Mexico,	USA 848.6
+Kissij 1191 Chondrite H5 Respublika	Tatarstan,	Russia 43.3
+Klamath	Falls 659 Iron IIIF Oregon,	USA 366.3
+Klein-Wenden 564 Chondrite H6 Thuringen,	Germany 8
+Knowles 411 Iron IIIAB Oklahoma,	USA 71.5
+Knyahinya 153 Chondrite L/LL5 Zakarpats'ka,	Ukraine 520.2
+Kodaikanal	 633 Iron IIE Tamil	Nadu,	India 275.4
+Kofa 1178 Iron IAB-sHH Arizona,	USA 54.77
+Kokstad	 738 Iron IIIE KwaZulu/Natal,	South	Africa 11.5
+Korra	Korrabes 1455 Chondrite H3 Namaland,	Namibia 15.2
+Kosice 1862 Chondrite H5 Vychodoslovensky,	Slovakia 8
+Krähenberg 1067 Chondrite LL5 Rheinland-Pfalz,Germany 1.6
+Kramer	Creek 918 Chondrite L4 Colorado,	USA 44.1
+Krasnojarsk 182 Pallasite PMG-an Krasnoyarskiy	kray,	Russia 409
+Kress	(a) 843 Chondrite L6 Texas,	USA 32
+Kress	(d) 1656 Chondrite H5 Texas,	USA
+Kuleschovka 1078 Chondrite L6 Sunny,	Ukraine 131.1
+Kulnine 953 Chondrite L6 Victoria,	Australia 55.3
+Kumerina 922 Iron IIC Western	Australia,Australia 238.9
+Kunashak 741 Chondrite L6 Chelyabinskaya	oblast',	Russia 843.6
+Kunya-Urgench 1824 Chondrite H5 Tashauz,Turkmenistan 17.41
+Kuresoi 1896 Chondrite L6 Rift	Valley,	Kenya 23.67
+Kuttippuram 610 Chondrite L6 Kerala,	India 129.5
+Kyancutta 285 Iron IIIAB South	Australia,Australia 464.6
+Kybunga 1385 Chondrite L5 South	Australia,Australia 29.1
+Kyle 799 Chondrite L6 Texas,	USA 105.2
+Kyushu 68 Chondrite L6 Kyushu,	Japan 191.2
+L'Aigle 74 Chondrite L6 Basse-Normandie,	France 987.3
+La	Banderia 1259 Chondrite LL5 Zacatecas,	Mexico 54.3
+La	Bécasse 942 Chondrite L6 Centre,	France 1.5
+La	Caille 254 Iron Ungrouped Provence-Alpes-Cote	d'Azur,	France 104.5
+La	Ciénega 1740 Chondrite H6 Sonora,	Mexico 21.2
+La	Ciénega	(b) 2005 Chondrite L6 Sonora,	Mexico 0.17
+La	Criolla 1258 Chondrite L6 Entre	Rios,	Argentina 233.9
+La	Grange 291 Iron IVA Kentucky,	USA 28.9
+La	Lande 464 Chondrite L5 New	Mexico,	USA 454.9
+La	Porte 486 Iron IIIAB Indiana,	USA 40.3
+La	Primitiva 883 Iron IIG Tarapaca,	Chile 726.6
+La	Villa 1335 Chondrite H4 Texas,	USA 143.5
+La'gad	002 1878 Pallasite PMG-an Western	Sahara 7.5
+Laborel 950 Chondrite H5 Rhone-Alpes,	France 16.8
+Ladder	Creek 405 Chondrite L6 Kansas,	USA 3933.94
+Lafayette	(stone) 167 Martian Martian	(nakhlite) Indiana,	USA 21.7
+Laguna	Manantiales 1514 Iron Santa	Cruz,	Argentina 2395.4
+Lahmada	003 1834 Chondrite L6 Saguia	el	Hamra,Western	Sahara 16.62
+Lake	Bonney 1243 Chondrite L6 South	Australia,	Australia 28.7
+Lake	Brown 682 Chondrite L6 Western	Australia,	Australia 89.5
+Lake	Labyrinth 369 Chondrite LL6 South	Australia,	Australia 2346.9
+Lake	Murray 846 Iron IIAB Oklahoma,	USA 1741.4
+Laketon 400 Chondrite L6 Texas,	USA 809.4
+Lakewood 800 Chondrite L6 New	Mexico,	USA 118
+Lamesa 1234 Iron IAB-sLM Texas,	USA 482.3
+Lancé 1073 Chondrite CO3.5 Centre,	France 21
+Lancon 954 Chondrite H6 Provence-Alpes-Conte	d'Azur,	France 10.93
+Landes 849 Iron IAB-MG West	Virginia,	USA 1582
+Långhalsen 688 Chondrite L6 Sodermanlands,	Sweden 35.6
+Langwies 1266 Chondrite H6 Graubunden,	Switzerland 0.4
+Lanton 308 Iron IIIAB Missouri,	USA 78.8
+Lanxi 1417 Chondrite L6 Heilongjiang,	China 82.1
+Las	Canas 2051 Achondrite Eucrite Cuba
+Laundry	East 1367 Chondrite H3.7 western	Australia,	Australia 31.3
+Laundry	West 1369 Chondrite L4 Western	Australia,	Australia 103.3
+Lawrence 219 Chondrite L6 Kansas,	USA 51.4
+Lazbuddie 1201 Chondrite LL5 Texas,	USA 94.1
+Le	Pressoir 1134 Chondrite H5 Centre,	France 0.4
+Le	Teilleul 1606 Achondrite Howardite Basse-Normandie,	France
+Leedey 489 Chondrite L6 Oklahoma,	USA 10724
+Leighlinbridge 2007 Chondrite L6 Leinster,	Ireland 6.502
+Leighton 1192 Chondrite H5 Alabama,	USA 42.6
+Lenarto 70 Iron IIIAB Vychodoslovensky,	Slovakia 139.5
+Leoville 821 Chondrite CV3 Kansas,	USA 371
+Leoville	(b) 994 Chondrite OC Kansas,	USA 108.9
+Lesves 956 Chondrite L6 Namur,	Belgium 12.4
+Lewiston 1282 Chondrite H4 New	Mexico,	USA 133.6
+Lexington	County 1091 Iron IAB-MG South	Carolina,	USA 84.8
+Licking 2014 Iron IVA Missouri,	USA 46.6
+Lider	(a) 992 Chondrite L5 Texas,	USA 84.7
+Lider	(b) 995 Chondrite H5 Texas,	USA 67.8
+Lillaverke 1195 Chondrite H5 Kalmar,	Sweden 13.8
+Lime	Creek 552 Iron IAB-ung Alabama,	USA 57.8
+Limerick	 73 Chondrite H5 Munster,	Ireland 103.4
+Lincoln	County 377 Chondrite L6 Colorado,	USA 1978.1
+Linum 1207 Chondrite L6 Brandenburg,	Germany 0.1
+Linwood 492 Iron IAB-MG Nebraska,	USA 42.6
+Lipovsky 774 Pallasite PMG Volgogradskaya	oblast',	Russia 29.2
+Lissa 567 Chondrite L6 Stredocesky,	Czech	Republic 12.8
+LIttle	Harquahala	Mountains 1721 Chondrite H-melt	rock Arizona,	USA
+Little	Piney 519 Chondrite L5 Missouri,	USA 41
+Little	River	(a) 814 Chondrite H6 Kansas,	USA 121.7
+Little	River	(b) 1030 Chondrite H4/5 Kansas,	USA 69.5
+Little	Spring	Creek 1551 Chondrite H5 Colorado,	USA 20.2
+Livingston	(Montana)		 526 Iron IIIAB Montana,	USA 664.4
+Lixna 943 Chondrite H4 Latvia 43
+Llano	River 1725 Iron IIIAB Texas,	USA 141.9
+Lockney 490 Chondrite L6 Texas,	USA 221.6
+Locust	Grove 269 Iron IIAB Georgia,	USA 182.7
+Lodran 1080 Achondrite Lodranite Punjab,	Pakistan 10.1
+Logan 178 Chondrite H5 Oklahoma,	USA 394.6
+Lombard 658 Iron IIAB Montana,	USA 245.3
+Lonaconing 1291 Iron IAB-sHL Maryland,	USA 46.6
+Lone	Star 833 Chondrite H4 Texas,	USA 168.4
+Lone	Tree 1530 Chondrite H4 Iowa,	USA 8.4
+Long	Island 71 Chondrite L6 Kansas,	USA 1141.9
+Loomis 320 Chondrite L6 Nebraska,	USA 667.7
+Loongana	001 1413 Chondrite C4-ung Western	Australia,	Australia 9.3
+Loop 752 Chondrite L6 Texas,	USA 99
+Loop	(b) 1170 Chondrite H Texas,	USA 24.2
+Lorenzo 1653 Chondrite L5 Nebraska,	USA 21.3
+Loreto 600 Iron IIIAB Baja	California	Sur,	Mexico 323.7
+Los	Angeles 1418 Achondrite Martian	(shergottite) California,	USA 32.9
+Los	Lunas 1623 Chondrite H4 New	Mexico,	USA
+Los	Reyes 1183 Iron IIIAB Reyes,	Mexico 747
+Los	Vientos	001 1739 Achondrite Diogenite-pm Antofagasta,	Chile 7.6
+Los	Vientos	189 2082 Iron IID-an Antofagasta,	Chile 33.7
+Lost	City 1278 Chondrite H5 Oklahoma,	USA 5.9
+Lost	Creek 2091 Chondrite H3.8 Kansas,	USA 32.9
+Losttown 288 Iron IID Georgia,	USA 2449.4
+Łowicz 952 Mesosiderite A3 Skierniewice,	Poland 20.3
+Lua 613 Chondrite L5 Rajasthan,	India 40.6
+Lubbock 431 Chondrite L5 Texas,	USA 228.3
+Lucé 1135 Chondrite L6 Pays	de	la	Loire,	France 2.7
+Lucerne	Valley	028 1785 Chondrite CK4 California,	USA 1.81
+Lueders 1730 Iron IAB-MG Texas,	USA 95.1
+Luis	Lopez 1265 Iron IIIAB New	Mexico,	USA 18.2
+Lujan 1208 Iron Buenos	Aires,	Argentina 1.6
+Lumpkin 560 Chondrite L6 Georgia,	USA 0.2
+Lundsgard 973 Chondrite L6 Kristianstads,	Sweden 89.8
+Luotolax 1209 Achondrite Howardite Kymi,	Finland
+Luponnas 1136 Chondrite H3-5 Rhone-Alpes,	France 5.3
+Lushton 1313 Chondrite L6 Nebraska,	USA 85.5
+Lusk 457 Iron Wyoming,	USA 22.3
+Macau 1105 Chondrite H5 Rio	Grande	de	Norte,	Brazil 42.1
+Macibini 1578 Achondrite Eucrite-pmict KwaZulu/Natal,	South	Africa 29.44
+Macy 1253 Chondrite L6 New	Mexico,	USA 124
+Madoc 1092 Iron IIIAB Ontario,	Canada 164.5
+Madrid 788 Chondrite L6 Madrid,	Spain 4.4
+Magura 239 Iron IAB-MG Stredoslovensky,	Slovakia 183.6
+Mainz 550 Chondrite L6 Rheinland-Pfalz,	Germany 8
+Malakal 844 Chondrite L5 South	Sudan 176
+Malotas 966 Chondrite H5 Santiago	del	Estero,	Argentina 26.7
+Maltahöhe 1384 Iron IAB-sLM Maltahohe,	Namibia 427.2
+Manbhoom 867 Chondrite LL6 West	Bengal,	India 41.3
+Manegaon 1069 Achondrite Diogenite Maharashtra,	India
+Mangwendi 865 Chondrite LL6 Mashonaland	East,	Zimbabwe 75.5
+Manitouwabing 1210 Iron IIIAB Ontario,	Canada 13.4
+Manych 1702 Chondrite LL3.4 Kalmykiya-Khal'mg	Tangch,	Russia 0.32
+Mapleton 485 Iron IIIAB Iowa,	USA 2950.9
+Maralinga 1352 Chondrite CK4-an South	Australia,	Australia 558.8
+Marburg 838 Pallasite Hessen,	Germany 0.1
+Maria	Elena	(1935) 388 Iron IVA Antofagasta,	Chile 293.7
+Maribo 2057 Chondrite CM2 Denmark 0.03
+Maricopa 1206 Chondrite H Arizona,	USA 18.7
+Maridi 1050 Chondrite H6 South	Sudan 105.9
+Marilia 1002 Chondrite H4 Sao	Paulo,	Brazil 11.1
+Marion	(Iowa) 244 Chondrite L6 Iowa,	USA 8619.1
+Marion	(Kansas) 661 Chondrite L5 Kansas,	USA 2139
+Marjalahti 200 Pallasite PMG Respublika	Kareliya,	Russia 115
+Marlow 1317 Chondrite L5 Oklahoma,	USA 368.8
+Marshall	County 292 Iron IIIAB Kentucky,	USA 2153.7
+Marsland 192 Chondrite H5 Nebraska,	USA 444.6
+Mart 82 Iron IVA Texas,	USA 448.9
+Maslyanino 2028 Iron IAB	complex Novosibirskaya	oblast',	Russia 251.2
+Mässing 1070 Achondrite Howardite Bayern,	Germany 0.3
+Mauerkirchen 726 Chondrite L6 Obsterreich,	Austria 44.1
+Mayday 665 Chondrite H4 Kansas,	USA 6918.3
+Mayfield 990 Chondrite H4 Kansas,	USA 64.9
+Mayo	Belwa 1061 Achondrite Aubrite Adamawa,	Nigeria 43.4
+Mayodan 636 Iron IIAB North	Carolina,	USA 528.8
+Mazapil 497 Iron IAB-sLL Zacatecas,	Mexico 2.4
+Maziba 965 Chondrite L6 Southern,	Uganda 6.7
+Mbale 1410 Chondrite L5/6 Eastern,	Uganda 3528.4
+Mbosi 179 Iron Ungrouped Mbeya,	Tanzania 485.4
+McAddo 439 Chondrite L6 Texas,	USA 16.4
+McCook 1423 Chondrite L6 Nebraska,	USA 23.7
+McCracken 1358 Chondrite H4/5 Kansas,	USA 89.2
+McKenzie	Draw	(a) 1523 Chondrite H4 Texas,	USA 3.3
+McKinney 79 Chondrite L4 Texas,	USA 5377.9
+McLean 451 Chondrite H6 Texas,	USA 709.2
+Mejillones 887 Iron IIAB Antofagasta,	Chile 67.4
+Melrose	(a) 174 Chondrite L5 New	Mexico,	USA 10222.1
+Melvern	Lake 1261 Chondrite H5 Kansas,	USA 174.7
+Menow 1112 Chondrite H4 Brandenburg,	Germany 81.2
+Merceditas 188 Iron IIIAB Atacama,	Chile 234.1
+Mereta 1588 Chondrite H4 Texas,	USA 68.1
+Merua 611 Chondrite H5 Uttar	Pradesh,	India 206.1
+Metsäkylä 1529 Chondrite H4 Kymi,	Finland 0.4
+Mezö-Madaras 340 Chondrite L3.7 Harghita,	Romania 467.2
+Miami 399 Chondrite H5 Texas,	USA 27287.8
+Mifflin 2060 Chondrite L5 Wisconsin,	USA 4.43
+Mighei 211 Chondrite CM2 Nikolayev,	Ukraine 2.7
+Milena 335 Chondrite L6 Croatia 81.9
+Miles 1532 Iron IIE Queensland,	Australia 700.9
+Millbillillie 1311 Achondrite Eucrite-mmict Western	Australia,	Australia 5576
+Miller	(Arkansas) 404 Chondrite H5 Arkansas,	USA 9.7
+Miller	(Kansas) 964 Chondrite H4 Kansas,	USA 6.8
+Mills 796 Chondrite H6 New	Mexico,	USA 885.6
+Milly	Milly 891 Iron IIIAB Western	Australia,	Australia 25
+Milton 1672 Pallasite Ungrouped Missouri,	USA
+Minas	Gerais 1185 Chondrite L6 Minas	Gerais,	Brazil 44.2
+Mincy 207 Mesosiderite B4 Missouri,	USA 387.7
+Minnesota	(iron) 518 Iron Minnesota,	USA 6.1
+Minnesota	(stone) 260 Chondrite L Minnesota,	USA 1.8
+Misshof 859 Chondrite H5 Latvia 15.61
+Mission 534 Chondrite L South	Dakota,	USA 9.2
+Misteca 764 Iron Ungrouped Oaxaca,	Mexico 185.3
+Moapa	Valley 1710 Chondrite CM1 Nevada,	USA	 1.84
+Mocs 80 Chondrite L5-6 Cluj,	Romania 52
+Moctezuma 78 Iron IAB-sLL Sonora,	Mexico 352.6
+Modoc	(1905) 81 Chondrite L6 Kansas,	USA 687.9
+Modoc	(1948) 522 Chondrite H6 Kansas,	USA 831.3
+Mohave	Mountains 2043 Chondrite L6 Arizona,	USA 31.93
+Mohawk 1634 Iron IAB	complex Arizona,	USA 433.7
+Mokoia 75 Chondrite CV3 Taranaki,	New	Zealand 91.7
+Molina 220 Chondrite H5 Murcia,	Spain 105.8
+Molong 76 Pallasite PMG New	South	Wales,	Australia 0.4
+Monahans	(1938) 256 Iron IIF Texas,	USA 3514.8
+Monahans	(1998) 1563 Chondrite H5 Texas,	USA 410
+Monroe 274 Chondrite H4 North	Carolina,	USA 2662.4
+Monte	Milone 1106 Chondrite L5 Marche,	Italy 37.7
+Monturaqui 1519 Iron IAB? Antofagasta,	Chile 7.3
+Monze 672 Chondrite L6 Sothern,	Zambia 202.5
+Moorabie 1348 Chondrite L3.8-an New	South	Wales,	Australia 339.3
+Moore	County 294 Achondrite Eucrite-cm North	Carolina,	USA 16.7
+Mooresfort 539 Chondrite H5 Munster,	Ireland 23.2
+Moradabad 1137 Chondrite L6 Uttar	Pradesh,	India
+Morasko 1726 Iron IAB-MG Poznan,	Poland 424.9
+Moriarty 1052 Chondrite L New	Mexico,	USA 295.7
+Morito 375 Iron IIIAB Chihuahua,	Mexico 578.6
+Morland 282 Chondrite H6 Kansas,	USA 4954.8
+Morradal 982 Iron Ungrouped Oppland,	Norway 11.8
+Morrill 195 Iron IAB-an Nebraska,	USA 246.5
+Morristown 205 Mesosiderite A3	 Tennessee,	USA 115.6
+Morton 1252 Chondrite H6 Texas,	USA 61.6
+Mosca 1298 Chondrite L6 Colorado,	USA 75.1
+Moss 1716 Chondrite CO3.6 Ostfold,	Norway	 14.5
+Mossgiel 1355 Chondrite L4 New	South	Wales,	Australia 136.4
+Moti-ka-nagla 967 Chondrite H6 Rajasthan,	India 7.8
+Motta	di	Conti 1705 Chondrite H4 Piemonte,	Italy 0.37
+Mount	Ayliff 852 Iron IAB-MG Eastern	Cape.	South	Africa 3
+Mount	Baldr	A76001 1242 Chondrite H6 Antarctica 7.9
+Mount	Blanco 2037 Chondrite L5 Texas,	USA 5.209
+Mount	Browne 1184 Chondrite H6 new	South	Wales,	Australia 43.71
+Mount	Dooling 1156 Iron IC Western	Australia,	Australia 8.9
+Mount	Dyrring 186 Pallasite Pallasite New	South	Wales,	Australia 114.2
+Mount	Edith 1154 Iron IIIAB Western	Australia,	Australia 969.5
+Mount	Egerton 1347 Achondrite Aubrite-an Western	Australia,	Australia 104.8
+Mount	Joy 299 Iron IIAB Pennsylvania,	USA 8248.9
+Mount	Magnet 1010 Iron IAB-sHH Western	Australia,	Australia 21.4
+Mount	Morris	(Wisconsin) 389 Iron IAB-an Wisconsin,	USA 29.4
+Mount	Ouray 907 Iron IID Colorado,	USA 43.3
+Mount	Padbury 927 Mesosiderite A1 Western	Australia,	Australia 142.4
+Mount	Tazerzait 1487 Chondrite L5 Agadez,	Niger 966.9
+Mount	Vernon 221 Pallasite PMG Kentucky,	USA 567.4
+Mreïra 1816 Chondrite L6 Tiris	Zemmour,	Mauritania 185.8
+Muckera	002 1394 Achondrite Howardite South	Australia,	Australia 49
+Muddoor 862 Chondrite L5 Karnataka,	India 14.9
+Mukundpura 2074 Chondrite CM2 Rajasthan,	India 3.15
+Mulberry	Draw 1301 Chondrite L5 Texas,	USA 129.9
+Muleshoe 1034 Chondrite H4/6 Texas,	USA 68
+Mulga	(North) 1362 Chondrite H6 Western	Australia,	Australia 49.2
+Mundrabilla 1022 Iron IAB-ung Western	Australia,	Australia 5829.5
+Mungindi 496 Iron IAB-sLM Queensland,	Australia 10.7
+Muonionalusta 884 Iron IVA Norbottens,	Sweden 24.9
+Murchison 828 Chondrite CM2 Victoria,	Australia 3863.85
+Muroc 370 Chondrite L California,	USA 2.6
+Muroc	Dry	Lake 366 Chondrite L6 California,	USA 14
+Murphy 495 Iron IIAB North	Carolina,	USA 5.2
+Murray 635 Chondrite CM2 Kentucky,	USA 2100.5
+Muslyumovo 1403 Chondrite H4 Respublika	Tatarstan,	Russia 17.5
+N'Goureyma 886 Iron Ungrouped Mopti,	Mali 56.1
+N'Kandhla 908 Iron IID KwaZulu/Natal,		South	Africa 16.2
+Nagaria 1608 Achondrite Eucrite-cm Uttar	Pradesh,	India
+Nagy-Borové 1190 Chondrite L5 Stredoslovensky,	Slovakia 11.4
+Nakhla 84 Martian Martian	(nakhlite) Al	Buhayrah,	Egypt 27.8
+Nakhon	Pathom 1327 Chondrite L6 Nakhon	Pathom,	Thailand 114.3
+Nammianthal 639 Chondrite H5 Tamil	Nadu,	India 9.4
+Nanjemoy 1113 Chondrite H6 Maryland,	USA 75
+Nantan 1267 Iron IAB-MG Guangxi,	China 3947
+Naoki 614 Chondrite H6 Maharashtra,	India 51.6
+Naragh 1017 Chondrite H6 Esfahan,	Iran 1.8
+Nardoo	(no.	1) 1354 Chondrite H5 New	South	Wales,	Australia 73.6
+Narraburra 598 Iron IIIAB New	South	Wales,	Australia 56.9
+Naryilco 1361 Chondrite LL6 Queensland,	Australia 1811
+Näs 690 Chondrite LL6 Alvsborgs,	Sweden 11.7
+Nashville	(iron) 206 Iron North	Carolina,	USA 214.6
+Nashville	(stone) 499 Chondrite L6 Kansas,	USA 70.3
+Navajo 83 Iron IIAB Arizona,	USA 13.7
+Nazareth	(b) 1202 Chondrite L6 Texas,	USA 127.9
+Nazareth	(iron) 842 Iron IIIAB Texas,	USA 274
+Needles 998 Iron IID California,	USA 690.5
+Neenach 760 Chondrite L6 California,	USA 309.8
+Nejo 1025 Chondrite L6 Welega,	Ethiopia 10.9
+Nelson	County 544 Iron IIIF Kentucky,	USA 304
+Nenntmannsdorf 549 Iron IIAB Sachsen,	Germany 2.1
+Nerft 732 Chondrite L6 Latvia 54.8
+Ness	County	(1894) 87 Chondrite L6 Kansas,	USA	 7663
+Ness	County	(1938) 385 Chondrite H4 Kansas,	USA 504.3
+Netschaëvo 247 Iron IIE-an Kaluzhskaya	oblast',	Russia 548.4
+New	Almelo 144 Chondrite L5 Kansas,	USA 5784.6
+New	Baltimore 88 Iron Ungrouped Pennsylvania,	USA 62.2
+New	Concord 202 Chondrite L6 Ohio,	USA	 25483
+New	Leipzig 394 Iron IAB-MG North	Dakota,	USA
+New	Mexico 511 Iron New	Mexico,	USA 119.7
+New	Orleans 2058 Chondrite H5 Louisiana,	USA 14.32
+New	Raymer 1561 Chondrite LL4 Colorado,	USA 15.4
+Newport 89 Pallasite PMG Arkansas,	USA 966.6
+Newsom 447 Chondrite L6 Colorado,	USA 130
+Nikolskoe 1055 Chondrite L4 Moskovskaya	oblast',	Russia 8.8
+Nkayi 1992 Chondrite L6 Matabeleland,	Zimbabwe 305.6
+Nobleborough 349 Achondrite Eucrite-pmict Maine,	USA 7.5
+Noblesville 1582 Chondrite H4-6 Indiana,	USA 34.31
+Nocoleche 876 Iron IC-an New	South	Wales,	Australia 41.6
+Nogoya 556 Chondrite CM2 Entre	Rios,	Argentina 67.2
+Norcateur 525 Chondrite L6 Kansas,	USA 1013.5
+Nordheim 817 Iron Ungrouped Texas,	USA 40.9
+Norfolk 410 Iron IIIAB Virginia,	USA 34.7
+Norfork 296 Iron IIIAB Arkansas,	USA 397.3
+North	Chile 1325 Iron IIAB Antofagasta,	Chile 4126.1
+North	Chile	(Coya	Norte) 169 Iron IIAB Antofagasta,	Chile 1606.3
+North	Chile	(Puripica) 387 Iron IIAB Antofagasta,	Chile 231.8
+North	Chile	(Rio	Loa) 376 Iron IIAB Antofagasta,	Chile 40.3
+North	Chile	(Tocopilla) 1166 Iron IIAB Antofagasta,	Chile 156.1
+North	Haig 1609 Achondrite Ureilite-pmict Western	Australia,	Australia
+Northwest	Africa	003 1488 Chondrite H4 Souss-Massa-Draa,	Morocco 2.7
+Northwest	Africa	047 1833 Achondrite Eucrite Northwest	Africa 4.79
+Northwest	Africa	060 1435 Chondrite CK5 Northwest	Africa 49.7
+Northwest	Africa	085 1776 Chondrite H3.8 Northwest	Africa 12.95
+Northwest	Africa	091 1663 Chondrite L6 Northwest	Africa 16.41
+Northwest	Africa	096 1429 Chondrite H3.8 Northwest	Africa 265.9
+Northwest	Africa	10074 1873 Achondrite Acapulcoite 8.57
+Northwest	Africa	10102 1855 Chondrite L(LL)3 Northwest	Africa 594.1
+Northwest	Africa	10103 1871 Chondrite LL7 Northwest	Africa 15.1
+Northwest	Africa	10104 1886 Chondrite CK6 Northwest	Africa 22.81
+Northwest	Africa	10296 2087 Chondrite L3.15 Northwest	Africa 11.3
+Northwest	Africa	10297 2092 Chondrite L3 Northwest	Africa 25.12
+Northwest	Africa	10446 2061 Achondrite Diogenite Northwest	Africa 14.39
+Northwest	Africa	10460 2017 Chondrite Northwest	Africa 32.51
+Northwest	Africa	10503 2047 Achondrite Ungrouped Northwest	Africa 2.507
+Northwest	Africa	10519 2015 Achondrite Enst	achon-ung Mauritania 647.2
+Northwest	Africa	10580 2073 Chondrite CO3 Northwest	Africa 3.72
+Northwest	Africa	10617 2023 Chondrite R3 Northwest	Africa 24.58
+Northwest	Africa	10658 1872 Achondrite Eucrite-pmict Northwest	Africa 27.43
+Northwest	Africa	107 1430 Chondrite H3.7 Northwest	Africa 10.2
+Northwest	Africa	10764 2055 Chondrite L(LL)3 Northwest	Africa
+Northwest	Africa	10799 2124 Chondrite L3 Northwest	Africa 89.2
+Northwest	Africa	10916 2088 Chondrite CO3.0 Morocco 1.8
+Northwest	Africa	10918 1902 Chondrite CV3 Northwest	Africa 56.64
+Northwest	Africa	10919 2062 Achondrite Eucrite-mmict Northwest	Africa 13.33
+Northwest	Africa	10920 1903 Chondrite H4 Northwest	Africa 3001.5
+Northwest	Africa	10922 2110 Achondrite Martian	(polymict	breccia) Northwest	Africa 67.21
+Northwest	Africa	10977 2083 Chondrite CV3 Northwest	Africa 71.9
+Northwest	Africa	1110 1496 Achondrite Martian	(shergottite) Northwest	Africa 0.2
+Northwest	Africa	11174 1990 Chondrite H5 Northwest	Africa 363.2
+Northwest	Africa	11175 2041 Chondrite L5 Northwest	Africa 24.9
+Northwest	Africa	11358 2090 Chondrite CO3.6 Northwest	Africa 49.19
+Northwest	Africa	1152 1628 Chondrite C3-ung Northwest	Africa 12.11
+Northwest	Africa	11556 2112 Chondrite C2-ung Northwest	Africa 0.2
+Northwest	Africa	11614 2094 Chondrite R3-5 Northwest	Africa 16.67
+Northwest	Africa	11672 2093 Chondrite L3 Northwest	Africa 25.5
+Northwest	Africa	11774 2125 Mesosiderite Mauritania 22.97
+Northwest	Africa	11958 2122 Achondrite Eucrite-mmict Northwest	Africa 53.45
+Northwest	Africa	11961 2111 Chondrite C3-ung Northwest	Africa 0.224
+Northwest	Africa	11970 2004 Achondrite Lodranite Northwest	Africa 180.9
+Northwest	Africa	1222 1800 Chondrite EL5 Northwest	Africa 149.4
+Northwest	Africa	12261 2123 Chondrite H3 Algeria 116.8
+Northwest	Africa	1232 1629 Chondrite CO3 Morocco 386.9
+Northwest	Africa	12328 2069 Chondrite CM1 Northwest	Africa 14.83
+Northwest	Africa	12416 2102 Chondrite C3-ung Northwest	Africa 20
+Northwest	Africa	12772 2019 Chondrite carbonaceous Northwest	Africa
+Northwest	Africa	130 1431 Chondrite H3.7 Northwest	Africa 28.6
+Northwest	Africa	1460 1507 Achondrite Martian	(shergottite) Northwest	Africa 0.1
+Northwest	Africa	1648 1736 Achondrite Diogenite-pm Northwest	Africa 152.21
+Northwest	Africa	1664 1797 Achondrite Howardite Bechar,	Algeria
+Northwest	Africa	1694 1670 Chondrite CK3 Northwest	Africa 2.56
+Northwest	Africa	1696 1502 Chondrite L3-6 Morocco 20.5
+Northwest	Africa	1697 1503 Chondrite L5 Morocco 45
+Northwest	Africa	176 1675 Iron Ungrouped Northwest	Africa 5.43
+Northwest	Africa	1814 1889 Chondrite CBa Northwest	Africa 23.35
+Northwest	Africa	1836 1888 Achondrite Eucrite Northwest	Africa 554.3
+Northwest	Africa	1878 1632 Mesosiderite B Northwest	Africa 90.13
+Northwest	Africa	1929 1837 Achondrite Howardite Morocco 512.7
+Northwest	Africa	1937 1912 Chondrite LL5/6 Northwest	Africa 2.22
+Northwest	Africa	1946 2116 Chondrite LL5 Northwest	Africa 5.68
+Northwest	Africa	1955 1501 Chondrite H/L3-4 Morocco 12.4
+Northwest	Africa	1957 1509 Chondrite L5 Northwest	Africa 89
+Northwest	Africa	1978 2114 Achondrite Eucrite-pmict Northwest	Africa 0.82
+Northwest	Africa	2060 1799 Achondrite Howardite Northwest	Africa
+Northwest	Africa	2089 1668 Chondrite LL3 Northwest	Africa 11.96
+Northwest	Africa	2122 1665 Chondrite L5 Northwest	Africa 10.11
+Northwest	Africa	2372 1788 Chondrite CK4 Northwest	Africa
+Northwest	Africa	2634 1755 Achondrite Ureilite Northwest	Africa 2.25
+Northwest	Africa	2690 1594 Achondrite Eucrite Northwest	Africa 32.6
+Northwest	Africa	2703 1753 Achondrite Ureilite Northwest	Africa 1.1
+Northwest	Africa	2724 1832 Achondrite Eucrite Northwest	Africa 93.3
+Northwest	Africa	2798 1803 Chondrite L3.2 Northwest	Africa
+Northwest	Africa	2840 1667 Chondrite L4 Northwest	Africa 4.02
+Northwest	Africa	2871 1633 Achondrite Acapulcoite Northwest	Africa 4.27
+Northwest	Africa	2900 2032 Chondrite CV3 Northwest	Africa 9.51
+Northwest	Africa	2918 1708 Chondrite CO3.0 Northwest	Africa 1.53
+Northwest	Africa	2932 1627 Mesosiderite Northwest	Africa 80.79
+Northwest	Africa	2975 1671 Achondrite Martian	(shergottite) Algeria 95.24
+Northwest	Africa	2976 1636 Achondrite Ungrouped Northwest	Africa 11.48
+Northwest	Africa	2995 1700 Achondrite Lunar	(feldsp.	breccia) Algeria	 28.19
+Northwest	Africa	2999 1795 Achondrite Angrite Northwest	Africa 2.23
+Northwest	Africa	3080 1620 Chondrite L6 Morocco 30.05
+Northwest	Africa	3118 1759 Chondrite CV3 Morocco 100.7
+Northwest	Africa	3130 1504 Chondrite H5 Northwest	Africa 20.1
+Northwest	Africa	3131 1505 Chondrite L5 Northwest	Africa 3.2
+Northwest	Africa	3132 1506 Chondrite EL3 Northwest	Africa 21.3
+Northwest	Africa	3133 1887 Achondrite primitive Morocco 10.62
+Northwest	Africa	3134 1909 Chondrite EL6 Morocco 0.79
+Northwest	Africa	3143 1836 Achondrite Diogenite Morocco 4.96
+Northwest	Africa	3145 1752 Achondrite Primitive	 Morocco 0.52
+Northwest	Africa	3151 1761 Achondrite Brachinite Northwest	Africa 1.51
+Northwest	Africa	3340 1625 Chondrite CM2-an Northwest	Africa 10.55
+Northwest	Africa	3359 1835 Achondrite Eucrite Northwest	Africa 3.11
+Northwest	Africa	4022 1823 Chondrite L3 Northwest	Africa 5.8
+Northwest	Africa	4024 1680 Achondrite Winonaite Northwest	Africa
+Northwest	Africa	4229 2115 Chondrite H7 Northwest	Africa 0.78
+Northwest	Africa	4272 1894 Achondrite Diogenite Western	Sahara 667
+Northwest	africa	4293 1662 Chondrite H6 Northwest	Africa 43.2
+Northwest	Africa	4294 1579 Chondrite OC3 Northwest	Africa 20.19
+Northwest	Africa	4412 2113 Chondrite L3.8 Northwest	Africa 1.96
+Northwest	Africa	4446 1905 Chondrite CV3 12.8
+Northwest	Africa	4470 1677 Achondrite Eucrite-an Algeria 40.68
+Northwest	Africa	4502 1760 Chondrite CV3 Algeria 284.6
+Northwest	Africa	4565 1830 Chondrite L4 Northwest	Africa 5.21
+Northwest	Africa	470 1814 Chondrite CH3 Meknes-Tafilalet,	Morocco 1.05
+Northwest	Africa	4765 1891 Chondrite CM1 Northwest	Africa 10.3
+Northwest	Africa	4773 1975 Chondrite L5 Northwest	Africa 0.46
+Northwest	Africa	4774 1988 Chondrite LL6 Northwest	Africa 0.007
+Northwest	Africa	4775 1974 Chondrite LL5 Northwest	Africa 0.18
+Northwest	Africa	4776 1983 Chondrite LL6 Northwest	Africa 0.09
+Northwest	Africa	4777 1964 Chondrite H4 Northwest	Africa 0.56
+Northwest	Africa	482 1555 Achondrite Lunar	(anorth) Northwest	Africa 12.17
+Northwest	Africa	4910 1733 Chondrite LL3.1 Northwest	Africa 16.9
+Northwest	Africa	4964 1890 Chondrite CK3 Northwest	Africa
+Northwest	Africa	5000 1673 Achondrite Lunar Morocco 20.71
+Northwest	Africa	5020 1979 Chondrite H4 Northwest	Africa 0.33
+Northwest	Africa	5021 1971 Chondrite L4 Northwest	Africa 0.61
+Northwest	Africa	5022 1944 Chondrite L6 Northwest	Africa 0.41
+Northwest	Africa	5023 1926 Chondrite H5 Northwest	Africa 1.24
+Northwest	Africa	5028 1845 Chondrite CR2 Northwest	Africa 85.6
+Northwest	Africa	521 1764 Chondrite CK4 Northwest	Africa 9.13
+Northwest	Africa	5236 1763 Chondrite CK4 Northwest	Africa 33.7
+Northwest	Africa	5297 1681 Achondrite Primitive	 Morocco
+Northwest	Africa	5412 1925 Chondrite L6 Northwest	Africa 2.23
+Northwest	Africa	5413 1916 Chondrite H5 Northwest	Africa 8.43
+Northwest	Africa	5414 1961 Chondrite H5 Northwest	Africa 0.89
+Northwest	Africa	5416 1977 Chondrite H4 Northwest	Africa 0.44
+Northwest	Africa	5417 1976 Chondrite LL6 Northwest	Africa 0.21
+Northwest	Africa	5469 1619 Chondrite R5 Northwest	Africa 41.85
+Northwest	Africa	5492 1635 Chondrite Ungrouped Northwest	Africa 51.51
+Northwest	Africa	5505 1908 Chondrite CO3 Northwest	Africa 7.86
+Northwest	Africa	5508 2042 Chondrite CV3 Northwest	Africa 19.724
+Northwest	Africa	5549 1691 Iron IAB-MG Northwest	Africa 1818.7
+Northwest	Africa	5717 2105 Chondrite Ungrouped Northwest	Africa 234.9
+Northwest	Africa	5725 1972 Achondrite Ureilite Morocco 0.25
+Northwest	Africa	5726 1973 Chondrite H5 Morocco 0.22
+Northwest	Africa	5727 1949 Chondrite L6 Morocco 0.48
+Northwest	Africa	5887 1884 Achondrite Eucrite-br Northwest	Africa 1.67
+Northwest	Africa	5958 1743 Chondrite C3.0-ung Morocco 23.6
+Northwest	Africa	6072 1806 Achondrite Eucrite Morocco 20.4
+Northwest	Africa	6074 1805 Achondrite Diogenite-pm Morocco 9.6
+Northwest	Africa	6138 1978 Chondrite LL3.7 Northwest	Africa 0.07
+Northwest	Africa	6139 1980 Chondrite L6 Northwest	Africa 0.17
+Northwest	Africa	6140 1917 Chondrite L6 Northwest	Africa 29.37
+Northwest	Africa	6141 1948 Chondrite H5 Northwest	Africa 1.72
+Northwest	Africa	6142 1981 Chondrite L6 Northwest	Africa 0.29
+Northwest	Africa	6254 2045 Chondrite CK3 Northwest	Africa 82.92
+Northwest	Africa	6279 1727 Iron IIAB Morocco 642.5
+Northwest	Africa	6291 1690 Achondrite Angrite Northwest	Africa 16.83
+Northwest	Africa	6332 1960 Chondrite H5 Northwest	Africa 0.94
+Northwest	Africa	6333 1951 Chondrite L6 Northwest	Africa 0.75
+Northwest	Africa	6334 1958 Chondrite H5 Northwest	Africa 2.15
+Northwest	Africa	6335 1950 Chondrite L6 Northwest	Africa 2.32
+Northwest	Africa	6336 1962 Chondrite LL6 Northwest	Africa 0.94
+Northwest	Africa	6337 1963 Chondrite L6 Northwest	Africa
+Northwest	Africa	6338 1936 Chondrite L4 Northwest	Africa 0.74
+Northwest	Africa	6339 1940 Chondrite L5 Northwest	Africa 1.15
+Northwest	Africa	6342 2106 Achondrite Martian	(shergottite) Northwest	Africa 3.06
+Northwest	Africa	6386 1867 Unknown Northwest	Africa 2.59
+Northwest	Africa	6549 1924 Chondrite L4 Northwest	Africa 0.8
+Northwest	Africa	6550 1946 Chondrite LL3.7 Northwest	Africa 3.32
+Northwest	Africa	6551 1922 Chondrite H5 Northwest	Africa 0.63
+Northwest	Africa	6552 1927 Chondrite L6 Northwest	Africa 1.79
+Northwest	Africa	6583 1907 Iron Ungrouped Northwest	Africa 8.8
+Northwest	Africa	6619 1906 Chondrite CV3 Northwest	Africa 4.11
+Northwest	Africa	6697 1982 Chondrite C2-ung Mauritania 0.09
+Northwest	Africa	6702 1765 Chondrite CV3 Northwest	Africa 13.48
+Northwest	Africa	6704 1735 Achondrite Ungrouped Algeria 40.01
+Northwest	Africa	6811 1957 Chondrite L6 Morocco
+Northwest	Africa	6812 1956 Chondrite H5 Morocco 2.66
+Northwest	Africa	6813 1969 Chondrite LL6 Morocco 0.46
+Northwest	Africa	6814 1954 Chondrite LL6 Morocco 0.65
+Northwest	Africa	6815 1967 Chondrite H6 Morocco
+Northwest	Africa	6816 1939 Chondrite L6 Morocco 1.82
+Northwest	Africa	6818 1930 Achondrite Ureilite Morocco 0.47
+Northwest	Africa	6820 1931 Achondrite Ureilite Morocco 0.35
+Northwest	Africa	6926 1866 Achondrite Ungrouped Northwest	Africa 20.32
+Northwest	Africa	6927 1868 Achondrite diogenite Northwest	Africa 1.56
+Northwest	Africa	6962 1786 Achondrite Ungrouped Northwest	Africa 3.2
+Northwest	Africa	6991 1737 Chondrite CV3 Northwest	Africa 39.4
+Northwest	Africa	6993 1929 Chondrite L6 Morocco 0.26
+Northwest	Africa	6994 1989 Chondrite H4 Morocco 100
+Northwest	Africa	6995 1987 Chondrite LL4 Morocco 0.02
+Northwest	Africa	7034 1852 Achondrite Martian	(basaltic	breccia) Morocco 19.36
+Northwest	Africa	7070 1828 Chondrite L3 Northwest	Africa 4.65
+Northwest	Africa	7127 1865 Achondrite Howardite Northwest	Africa 2.98
+Northwest	Africa	7177 1986 Chondrite LL6 Northwest	Africa 0.02
+Northwest	Africa	7178 1941 Chondrite H5 Northwest	Africa 0.96
+Northwest	Africa	7179 1928 Chondrite H4 Northwest	Africa 0.42
+Northwest	Africa	7184 2072 Chondrite CR2 Northwest	Africa 0.54
+Northwest	Africa	725 1638 Achondrite Acapulcoite Meknes-Tafilalet,	Morocco 2471.3
+Northwest	Africa	7259 1933 Achondrite Eucrite-pmict Morocco 0.4
+Northwest	Africa	7281 1966 Achondrite Eucrite Morocco 0.37
+Northwest	Africa	7284 1945 Achondrite Diogenite Morocco 1.07
+Northwest	Africa	7285 1792 Achondrite Eucrite Morocco 1.01
+Northwest	Africa	7312 1859 Achondrite Lodranite	 Northwest	Africa 29.99
+Northwest	Africa	7317 2071 Chondrite CR6 Northwest	Africa
+Northwest	Africa	7325	 1802 Achondrite Ungrouped Northwest	Africa 0
+Northwest	Africa	7327 1937 Chondrite H/L5 Morocco 1.15
+Northwest	Africa	7328 1923 Chondrite H4 Morocco 0.51
+Northwest	Africa	7329 1942 Achondrite Howardite Morocco 0.42
+Northwest	Africa	7330 1943 Achondrite Eucrite-cm Morocco 0.41
+Northwest	Africa	7331 1965 Achondrite Howardite Morocco 0.25
+Northwest	Africa	7332 1970 Chondrite CV3 Morocco 0.27
+Northwest	Africa	7334 1932 Achondrite Eucrite Morocco 0.31
+Northwest	Africa	7349 1920 Achondrite Ureilite Morocco 0.76
+Northwest	Africa	7350 1985 Mesosiderite B2 Morocco 0.006
+Northwest	Africa	7368 1968 Chondrite H4 Morocco 1.18
+Northwest	Africa	7385 1935 Achondrite Eucrite Morocco 0.25
+Northwest	Africa	7397 1843 Achondrite Martian	(shergottite) Northwest	Africa 16.36
+Northwest	Africa	7400 1793 Achondrite Eucrite-mmict Northwest	Africa
+Northwest	Africa	7429 1913 Chondrite L4 Morocco 5.26
+Northwest	Africa	7450 1959 Chondrite LL6	 Morocco 0.49
+Northwest	Africa	7454 2026 Chondrite CV3 Northwest	Africa 388.1
+Northwest	Africa	7463 1938 Chondrite L6 Morocco 0.82
+Northwest	Africa	7476 1955 Chondrite L6 Morocco 1.21
+Northwest	Africa	7477 1953 Chondrite L3.9 Morocco 0.7
+Northwest	Africa	7478 1952 Chondrite LL6 Morocco 0.61
+Northwest	Africa	7479 1919 Chondrite CV3 Morocco 0.73
+Northwest	Africa	7485 1921 Chondrite Eucrite-mmict Morocco 0.34
+Northwest	Africa	7487 1934 Chondrite H4 Morocco 0.5
+Northwest	Africa	7491 1947 Chondrite L6 Morocco 0.48
+Northwest	Africa	7496 1790 Achondrite Eucrite-pmict Rio	de	Oro,	Western	Sahara 21.17
+Northwest	Africa	7611 1851 Achondrite Lunar Morocco 311.5
+Northwest	Africa	7867 1826 Chondrite LL7 Morocco 4.85
+Northwest	Africa	7891 2011 Chondrite CV3-an Northwest	Africa 4.718
+Northwest	Africa	7892 2089 Chondrite CO3.0 Morocco 16.33
+Northwest	Africa	7916 1808 Chondrite CO3 Northwest	Africa 61.13
+Northwest	Africa	7999 1820 Achondrite Eucrite-pmict Northwest	Africa 79.3
+Northwest	Africa	801 1466 Chondrite CR2 Northwest	Africa 10.2
+Northwest	Africa	8159 2038 Achondrite Martian	(augite	basalt) Northwest	Africa 1.763
+Northwest	Africa	8164 1819 Chondrite CK6 Northwest	Africa 14.8
+Northwest	Africa	8164 1829 Chondrite L6 Northwest	Africa 38.9
+Northwest	Africa	8233 1825 Chondrite H6 Northwest	Africa 25.55
+Northwest	Africa	8234 1857 Mesosiderite C2 Northwest	Africa 95.64
+Northwest	Africa	8304 1858 Achondrite Lodranite Northwest	Africa 50.2
+Northwest	Africa	8323 1895 Chondrite CV3 Northwest	Africa 10.43
+Northwest	Africa	8383 1853 Achondrite eucrite-cm Northwest	Africa 20.28
+Northwest	Africa	8417 1997 Chondrite LL7 Northwest	Africa 10.04
+Northwest	Africa	8486 1856 Achondrite Ungrouped Morocco 43.81
+Northwest	Africa	8534 1915 Chondrite CM1/2 Northwest	Africa 9.99
+Northwest	Africa	8563 1885 Achondrite Eucrite-mmict Mauritania 388
+Northwest	Africa	8588 2009 Achondrite Eucrite Northwest	Africa 7.43
+Northwest	Africa	859 1742 Iron Ungrouped Northwest	Africa 129.2
+Northwest	Africa	869 1750 Chondrite L3-6 Northwest	Africa 34.8
+Northwest	Africa	8777 2046 Achondrite Ungrouped Northwest	Africa 4.09
+Northwest	Africa	960 1664 Chondrite OC3	 Northwest	Africa 4.69
+Northwest	Africa	978 1661 Chondrite R3.8 Northwest	Africa 6.31
+Northwest	Africa	998 1757 Achondrite Martian	(nakhlite) Northwest	Africa 16.96
+Norton	County 523 Achondrite Aubrite Kansas,	USA 1231.9
+Nothing 1831 Iron IID Arizona,	USA 102.4
+Novo-Urei 1603 Achondrite Ureilite Respublika	Mordoviya,	Russia
+Noyan-Bogdo 1479 Chondrite L6 Omnogovi,	Mongolia 116.8
+Nuevo	Mercurio 1172 Chondrite H5 Zacatecas,	Mexico 256.7
+Nulles 783 Chondrite H6 Cataluna,	Spain 179.4
+O'Donnell 1470 Chondrite H5 Texas,	USA 406.2
+Oakley	(stone) 152 Chondrite H6 Kansas,	USA 213.8
+Oberlin 283 Chondrite LL5 Kansas,	USA 1008.1
+Obernkirchen 606 Iron IVA Niedersachsen,	Germany 54.6
+Ocate 1729 Iron IAB-MG New	Mexico,	USA 162.9
+Ochansk 364 Chondrite H4 Permskaya	oblast',	Russia 65.1
+Ocotillo 1379 Iron IAB-MG California,	USA 1667.2
+Octave	Mine 1566 Chondrite H5 Arizona,	USA
+Odessa	(iron) 91 Iron IAB-MG Texas,	USA 17532.7
+Odessa	(iron)	(Penwell) 91 Iron IAB-MG Texas,	USA 451.6
+Odessa	(stone) 1640 Chondrite H4 Odessa,	Ukraine
+Oesel 1138 Chondrite L6 Estonia 27.5
+Ogallala 90 Iron IAB-sLL Nebraska,	USA 1102.2
+Ohaba 1079 Chondrite H5 Alba,	Romania 46
+Ojuelos	Altos 782 Chondrite L6 Andalucia,	Spain 71.5
+Okano 934 Iron IIAB Kinki,	Japan 18.7
+Okechobee 395 Chondrite L4 Florida,	USA 20.06
+Okniny 1066 Chondrite LL6 Volyn,	Ukraine 0.9
+Oktibbeha	County 1093 Iron IAB-ung Mississippi,	USA 1.7
+Old	Homestead	001 1393 Achondrite Howardite Western	Australia,	Australia 49.9
+Oldman	Mountain 1779 Chondrite H5 Arizona,	USA 25.5
+Olivenza 716 Chondrite LL5 Extremadura,	Spain 425.9
+Oliver 1257 Chondrite L6 Nebraska,	USA 116.7
+Olmedilla	de	Alarcón 1732 Chondrite H5 Castilla-La	Mancha,	Spain 98.8
+Orange	River	(iron) 322 Iron IIIAB Free	State,	South	Africa 3523.9
+Orgueil 222 Chondrite CI1 Midi-Pyrenees,	France 44.71
+Orimattila 1031 Chondrite H4 Uusimaa,	Finland 19.8
+Orlovka 747 Chondrite H5 Novosibirskaya	oblast',	Russia 90.7
+Ornans 1074 Chondrite CO3.4 Franche-Comte,	France 64.3
+Oroville 1035 Iron IIIAB California,	USA 48
+Orvinio 450 Chondrite H6 Lazio,	Italy 44
+Osceola 2036 Chondrite L6 Florida,	USA 16.12
+Oscuro	Mountains 882 Iron IAB-MG New	Mexico,	USA 15.3
+Osseo 309 Iron IAB	complex Ontario,	Canada 173.7
+Oteroy 1013 Chondrite L6 Telemark,	Norway 9.08
+Otinapa 1285 Pallasite PMG Durango,	Mexico 288.1
+Otis 467 Chondrite L6 Kansas,	USA 735.3
+Ottawa 870 Chondrite LL6 Kansas,	USA 43.1
+Ouadangou 1617 Chondrite L5 Gnagna,	Burkina	Faso
+Oubari 1268 Chondrite LL6 Awbari,	Libya 9.8
+Oued	Bourdim	001 1860 Pallasite PES Eastern,	Morocco 107.6
+Oum	Dreyga 1616 Chondrite H3-5 Rio	de	Oro,	Western	Sahara 285.4
+Ourique 1599 Chondrite H4 Beja,	Portugal 35.5
+Ouzina 1449 Chondrite R4 Meknes-Tafilalet,	Morocco 8.9
+Overland	Park 1458 Chondrite H4 Kansas,	USA 113.7
+Ovid 445 Chondrite H6 Colorado,	USA 1381.2
+Ovid	(b) 1562 Chondrite H5 Colorado,	USA 25.3
+Owasco 1254 Chondrite L6 Nebraska,	USA 59.7
+Owens	Valley 145 Iron IIIAB California,	USA 360.3
+Ozona 816 Chondrite H6 Texas,	USA 8381.5
+Ozren 1308 Iron IAB-MG Bosnia	and	Herzegovina 20.4
+Pacula 96 Chondrite L6 Hidalgo,	Mexico 88.3
+Padvarninkai 812 Achondrite Eucrite-mmict Lithuania 22.5
+Page	City 2085 Iron IVA Kansas,	USA 19.9
+Palo	Blanco	Creek 1374 Achondrite Eucrite-mmict New	Mexico,	USA 169.7
+Palo	Verde	Mine 1516 Chondrite L6 Arizona,	USA 25.3
+Paloduro 1469 Iron IIIE Texas,	USA 116
+Pampa	(a) 1287 Chondrite L6 Antofagasta,	Chile 24.2
+Pampa	(b) 1288 Chondrite L4/5 Antofagasta,	Chile 78.6
+Pampa	(c) 1341 Chondrite L4 Antofagasta,	Chile 69.2
+Pampa	Providencia 1416 Iron IIIAB Antofagasta,	Chile 311.2
+Panhandle 1263 Chondrite H5 Texas,	USA 15.7
+Pantar 503 Chondrite H5 Central	Mindanao,	Philippines
+Paposo	017 1854 Chondrite CR2 Antofagasta,	Chile 32.84
+Para	de	Minas 604 Iron IVA Minas	Gerais,	Brazil 298.8
+Paragould 95 Chondrite LL5 Arkansas,	USA 61.3
+Parambu 1003 Chondrite LL5 Ceara,	Brazil 3
+Paranaiba 1333 Chondrite L6 Mato	Grosso	de	Sul,	Brazil 25
+Park 1161 Chondrite L6 Kansas,	USA 7843.3
+Park	Forest 1493 Chondrite L5 Illinois,	USA 54.3
+Parker 2022 Chondrite H5 Arizona,	USA 15.49
+Parnallee 93 Chondrite LL3.6 Tamil	Nadu,	India 1261.3
+Pasamonte 197 Achondrite Eucrite-pmict New	Mexico,	USA 648.72
+Patos	de	Mina	(octahedrite) 1998 Iron IAB	complex Minas	Gerais,	Brazil 60.84
+Patrimonio 1228 Chondrite L6 Minas	Gerais,	Brazil 25.3
+Patwar 634 Mesosiderite A1 Chittagong,	Bangladesh 147.8
+Pavlograd 768 Chondrite L6 Dnepropetrovsk,	Ukraine 18.4
+Pavlovka 902 Achondrite Howardite Saratovskaya	oblast',	Russia 6
+Paymaster	Mine 1651 Chondrite L5 California,	USA 21.46
+Peace	River 720 Chondrite L6 Alberta,	Canada 116.33
+Peck's	Spring 268 Chondrite L5 Texas,	USA 19.2
+Peckelsheim 834 Achondrite Diogenite-pm Nordrhein-Westfalen,	Germany 1.4
+Pedernales 1557 Iron IAB	complex Texas,	USA 85.6
+Peekskill 1404 Chondrite H6 New	York,	USA 360
+Peetz 422 Chondrite L6 Colorado,	USA 1772.4
+Peña	Blanca	Spring 509 Achondrite Aubrite Texas,	USA 491.3
+Peramiho 1610 Achondrite Eucrite-mmict Ruvuma,	Tanzania
+Perpeti 612 Chondrite L6 Chittagong,	Bangladesh 67.9
+Perryton 1457 Chondrite LL6 Texas,	USA 163.3
+Perryville 172 Iron IIC Missouri,	USA 170.77
+Pervomaisky 742 Chondrite L6 Vladmirskaya	oblast',	Russia 430.8
+Pesyanoe 1344 Achondrite Aubrite Kurganskaya	oblast',	Russia 0.6
+Petersburg 334 Achondrite Eucrite-pmict Tennessee,	USA 398.5
+Pevensey 1277 Chondrite LL5 New	South	Wales,	Australia 41.4
+Phillips	County	(Pallasite) 284 Pallasite PMG-an Colorado,	USA 290
+Phum	Sambo 1189 Chondrite H4 Kampong	Cham,	Cambodia 12.8
+Picacho 660 Iron IIIAB New	Mexico,	USA 557.5
+Pickens	County 1188 Chondrite H6 Georgia,	USA 19.25
+Pierceville	(iron) 675 Iron IIIAB Kansas,	USA 435.5
+Pierceville	(stone) 444 Chondrite L6 Kansas,	USA 424.4
+Pillistfer 1071 Chondrite EL6 Estonia 143
+Pine	Bluffs 1198 Chondrite H Wyoming,	USA 199.4
+Pine	River 493 Iron IAB-sLL Wisconsin,	USA 112.4
+Pinnaroo 872 Mesosiderite A4 South	Australia,	Australia 55.9
+Piñon 147 Iron Ungrouped New	Mexico,	USA 3392.2
+Pinto	Mountains 987 Chondrite L6 California,	USA 6.8
+Pipe	Creek 201 Chondrite H6 Texas,	USA 88.5
+Pittsburg 1094 Iron IAB-MG Pennsylvania,	USA 47.9
+Plains 805 Chondrite H5 Texas,	USA 2008.5
+Plainview	(1917) 92 Chondrite H5 Texas,	USA 79456.9
+Plainview	(1917) 667 Chondrite H5 Texas,	USA 79456.9
+Plainview	(1950) 585 Chondrite H Texas,	USA 1806.8
+Plantersville 974 Chondrite H6 Texas,	USA 8
+Pleasanton 312 Chondrite H5 Kansas,	USA 67.1
+Plymouth 160 Iron IIIAB Indiana,	USA 470
+Pohlitz 559 Chondrite L5 Sachsen-Anhalt,	Germany 4
+Polujamki 1165 Chondrite H4 Altayskiy	kray,	Russia 17.9
+Portales	(c) 985 Chondrite H4 New	Mexico,	USA 20.1
+Portales	Valley 1445 Chondrite H6 New	Mexico,	USA 1060.5
+Potter 476 Chondrite L6 Nebraska,	USA 45179
+Prairie	Dog	Creek 928 Chondrite H3.7 Kansas,	USA 84.5
+Pricetown 937 Chondrite L6 Ohio,	USA 1.1
+Primm 1584 Chondrite H5 Nevada,	USA
+Puente	del	Zacate 94 Iron IIIAB Coahuila,	Mexico 185.8
+Puente-Ladron 119 Chondrite L6 New	Mexico,	USA 7.6
+Puerto	Lápice 1581 Achondrite Eucrite-br Castilla-La	Mancha,	Spain 16.01
+Puerto	Libertad 978 Chondrite L Sonora,	Mexico 65.4
+Pultusk 97 Chondrite H5 Ostroleka,	Poland 1382.2
+Puquios 1095 Iron IID Atcama,	Chile 62.3
+Purmela 1515 Iron IIF Texas,	USA 402.4
+Putinga 938 Chondrite L6 Rio	Grande	do	Sul,	Brazil 14.1
+Putnam	County 246 Iron IVA Georgia,	USA 11507.2
+Qidong 2008 Chondrite L/LL5 Jiangsu,	China 9.742
+Quartz	Mountain 310 Iron IIIAB Nevada,	USA 1027.75
+Quartzsite 1567 Chondrite L4 Arizona,	USA 14.53
+Quebrada	Chimborazo	001 1893 Chondrite Bencubbinite Chile 87.55
+Queen's	Mercy 765 Chondrite H6 Eastern	Cape,	South	Africa 207.5
+Quenggouk 265 Chondrite H4 Irrawaddy,	Burma 296.3
+Queretaro 1337 Chondrite H4 Queretaro,	Mexico 83.8
+Quijingue 1777 Pallasite PMG Baha,	Brazil 16.01
+Quinn	Canyon 909 Iron IIIAB Nevada,	USA 42.3
+Raco 687 Chondrite H5 Tucuman,	Argentina 4.8
+Rakovka 869 Chondrite L6 Orlovskaya	oblast',	Russia 34.1
+Ramsdorf 703 Chondrite L6 Nordrhein-Westfalen,	Germany 90
+Ranchapur 630 Chondrite H4 Bihar,	India 30
+Rancho	Blanco 1316 Achondrite Eucrite-mmict Zacatecas,	Mexico 20.7
+Rancho	de	la	Pila	(1882) 881 Iron IIIAB Durango,	Mexico 57.9
+Rancho	de	la	Presa 98 Chondrite H5 Michoacan,	Mexico 16.9
+Rancho	Gomelia 1044 Iron IIIAB Durango,	Mexico 2554.2
+Rancho	Gomelia	(Poscente) 1054 Iron IIIAB Durango,	Mexico 3905.5
+Rangala 628 Chondrite L6 Rajasthan,	India 34
+Ransom 142 Chondrite H4 Kansas,	USA 1585
+Rawlinna	001 677 Pallasite PMG-an Western	Australia,	Australia 17.12
+Rawlinna	002 681 Chondrite H5 Western	Australia,	Australia 124.1
+Red	Canyon	Lake 1712 Chondrite H5 California,	USA 2.59
+Red	Dry	Lake	003 1553 Chondrite H6 Arizona,	USA 3.6
+Red	Dry	Lake	067 1701 Chondrite L3.4 Arizona,	USA 2.28
+Red	River 252 Iron IIIAB Texas,	USA 614.8
+Redfields 1157 Iron Ungrouped Western	Australia,	Australia 10.2
+Reed	City 154 Iron Ungrouped Michigan,	USA 493.9
+Reid	013 1648 Achondrite Brachinite Western	Australia,	Australia 28.9
+Reliegos 786 Chondrite L5 Castilla	y	Leon,	Spain 33.7
+Renazzo 1075 Chondrite CR2 Emilia-Romagna,	Italy 17.47
+Renfrow 1446 Chondrite L6 Oklahoma,	USA 151.3
+Renqiu 1289 Chondrite L6 Hebei,	China 78.5
+Republican	River 1322 Chondrite H4 Nebraska,	USA 3.4
+Rhineland 1255 Chondrite H5 Texas,	USA 40.3
+Rica	Aventura 1453 Iron IVA Antofagasta,	Chile 140.8
+Rich	Mountain 941 Chondrite L6 North	Carolina,	USA 4.1
+Richardton 100 Chondrite H5 North	Dakota,	USA 1130.38
+Richfield 1573 Chondrite LL3.7 Kansas,	USA 1208.2
+Richland 1574 Iron IIAB Texas,	USA 758.4
+Richmond 1114 Chondrite LL5 Virginia,	USA 87.7
+Rifle 528 Iron IAB-MG Colorado,	USA 23439
+Rio	Limay 1489 Chondrite L5 Rio	Negro,	Argentina 8091
+Roach 1612 Chondrite LL6 Nevada,	USA
+Rochester 581 Chondrite H6 Indiana,	USA 0.2
+Rock	Creek 1220 Chondrite L5 Texas,	USA 129.9
+Roda 1641 Achondrite Diogenite Aragon,	Spain
+Rodeo 101 Iron IID Durango,	Mexico 710.6
+Roebourne 353 Iron IIIAB Western	Australia,	Australia 3050.9
+Rolla	(1936) 609 Chondrite H5 Kansas,	USA 27.5
+Rolla	(1939) 463 Chondrite H4 Kansas,	USA 153.1
+Rolla	(1941) 582 Chondrite H5 Kansas,	USA 47.6
+Rolla	(d) 651 Chondrite H Kansas,	USA 45.2
+Romero 454 Chondrite H4 Texas,	USA 223.4
+Roosevelt 1027 Chondrite H3.4 Oklahoma,	USA 57.9
+Roosevelt	County	102 1480 Chondrite L5 New	Mexico,	USA 80.5
+Roosevelt	County	103 1432 Chondrite L6 New	Mexico,	USA 1
+Roosevelt	County	104 1433 Chondrite L5 New	Mexico,	USA 3.4
+Roosevelt	County	105 1434 Chondrite H5 New	Mexico,	USA 1.6
+Roosevelt	County	106 1436 Chondrite L6 New	Mexico,	USA 95.3
+Roosevelt	County	107 1437 Chondrite L6 New	Mexico,	USA 16.04
+Roosevelt	County	108 1644 Chondrite H5 New	Mexico,	USA 3.75
+Rosamond	Dry	Lake 1186 Chondrite L California,	USA 29
+Rosario 889 Iron IAB-MG Lempira,	Honduras 51.2
+Rose	City 301 Chondrite H5 Michigan,	USA 200.3
+Rosebud 180 Chondrite H5 Texas,	USA 10.6
+Roundup 1356 Iron IIIAB Montana,	USA 612.2
+Rowena 963 Chondrite H6 New	South	Wales,	Australia 9.4
+Roy	(1933) 234 Chondrite L5 New	Mexico,	USA 5852.9
+Roy	(1934) 391 Chondrite L6 New	Mexico,	USA 126.4
+Ruff's	Mountain 99 Iron IIIAB South	Carolina,	USA 23375.6
+Rupota 1863 Chondrite L4-6 Lindi,	Tanzania 11.44
+Rush	County 529 Chondrite H5 Indiana,	USA 49.1
+Rush	Creek 267 Chondrite L6 Colorado,	USA 440.5
+Russel	Gulch 307 Iron IIIAB Colorado,	USA 175.7
+Sacramento	Mountains 372 Iron IIIAB New	Mexico,	USA 178
+Sacramento	Wash	001 1546 Chondrite H4 Arizona,	USA 28.1
+Sacramento	Wash	002 1547 Chondrite H4 Arizona,	USA 102.9
+Sacramento	Wash	003 1548 Chondrite H4 Arizona,	USA 21.6
+Sacramento	Wash	004 1558 Chondrite H5 Arizona,	USA 6.33
+Sahara	00182 1709 Chondrite C3-ung Sahara 1.97
+Sahara	00293 1995 Chondrite L6 Sahara 22.48
+Sahara	00350 2012 Chondrite L6 Sahara 14.216
+Sahara	97001 1477 Chondrite L6 Sahara 7.6
+Sahara	97158 1674 Chondrite EH3 Sahara 52.43
+Sahara	98088 1471 Mesosiderite Sahara 50.1
+Sahara	99433 2095 chondrite H5 Sahara 1.82
+Sahara	99555 1798 Achondrite Angrite Sahara
+Saint-Séverin 1009 Chondrite LL6 Poitou-Charentes,	France 4.7
+Salaices 851 Chondrite H4 Chihuahua,	Mexico 1227.3
+Salaices	(Salaices	II) 1221 Chondrite H4 Chihuahua,	Mexico
+Salar	de	Imilac 1427 Chondrite H5 Antofagasta,	Chile 36.4
+Salina 321 Iron Utah,	USA 17.8
+Saline 107 Chondrite H5 Kansas,	USA 286.5
+Salla 707 Chondrite L6 Lappi,	Finland 11.3
+Salles 1140 Chondrite L5 Rhone-Alpes,	France 6.8
+Salt	River 258 Iron IIC Kentucky,	USA 182.9
+Sam's	Valley 436 Iron IIIAB Oregon,	USA 316.9
+Samelia 642 Iron IIIAB Rajasthan,	India 11.4
+San	Angelo 159 Iron IIAB Texas,	USA 903.1
+San	Carlos 1643 Chondrite H4 Buenos	Aires,	Argentina
+San	Cristobal 1041 Iron IAB-ung Antofagasta,	Chile 63
+San	Emigdio 579 Chondrite H4 California,	USA 20.3
+San	Francisco	Mountains 138 Iron IVA Arizona,	USA 29.96
+San	Juan	de	Ocotán 2027 Chondrite L5 Jalisco,	Mexico 34.29
+San	Pedro	de	Urabá	 2080 Chondrite L6 Colombia 24.38
+Sanderson 441 Iron IIIAB Texas,	USA 1986.9
+Sandia	Mountains 108 Iron IIAB New	Mexico,	USA 299.2
+Sandtown 850 Iron IIIAB Arkansas,	USA 347.5
+Santa	Apolonia 112 Iron IIIAB Tlaxcala,	Mexico 6160.2
+Santa	Catharina 223 Iron IAB-ung Santa	Catarina,	Brazil 1322.9
+Santa	Clara 1060 Iron IVB Durango,	Mexico 45881
+Santa	Cruz 460 Chondrite CM2 Tamaulipas,	Mexico 14.71
+Santa	Luzia 110 Iron IIAB Goias,	Brazil 311.5
+Santa	Rosa 103 Iron IC Boyaca,	Columbia 1203
+Santa	Rosalia 599 Pallasite PMG Baja	California	Sur,	Mexico 596.9
+Santa	Vitoria	do	Palmar 1598 Chondrite L3 Rio	Grande	do	Sul,	Brazil 147.9
+Santiago	Papasquiero 721 Iron Ungrouped Santiago,	Mexico 51,500
+Santo	Antônio	do	Descoberto 1993 Iron IIAB Goias,	Brazil 1484.7
+Sao	João	Nepomuceno 1841 Iron IVA-an Minas	Gerais,	Brazil 6.85
+Sao	Julião	de	Moreira 361 Iron IIAB Viana	do	Castelo,	Portugal 182.4
+Saratov 740 Chondrite L4 Saratovskaya	oblast',	Russia 547.8
+Sarepta 546 Iron IAB-MG Volgogradskaya	oblast',	Russia 207.4
+Sauceda	de	la	Borda 2024 Achondrite Iron Mexico 37692.9
+Sauguis 1141 Chondrite L6 Aquitaine,	France 2.5
+Sayh	al	Uhaymir	001 1498 Chondrite L5 Al	Wusta,	Oman 29
+Sayh	al	Uhaymir	290 1666 Chondrite CH3 Al	Wusta,	Oman 5.52
+Sayh	al	Uhaymir	300 1596 Achondrite Lunar Al	Wusta,	Oman 1.1
+Sayh	al	Uhaymir	493 1718 Achondrite Ungrouped Al	Wusta,	Oman 13.76
+Sayh	al	Uhaymir	559 1847 Achondrite Ureilite Al	Wusta,	Oman
+Sayh	al	Uhaymir	562 1807 Achondrite Eucrite-unbr Al	Wusta,	Oman 19.1
+Schönenberg 864 Chondrite L6 Bayern,	Germany 12.1
+Schwetz 1153 Iron IIIAB Bydgoszcz,	Poland 532.3
+Scott	City 106 Chondrite H5 Kansas,	USA 47.2
+Scottsville 164 Iron IIIAB Kentucky,	USA 135
+Scurry 832 Chondrite H5 Texas,	USA 52.8
+Seagraves	(b) 1329 Chondrite H5 Texas,	USA 20.2
+Seagraves	(c) 1377 Chondrite L6/7 Texas,	USA 1168.8
+Searsmont 105 Chondrite H5 Maine,	USA 842.6
+Seelasgen 102 Iron IAB-MG Zielona	Gora,	Poland 290.3
+Seemore	Downs	001 1386 Chondrite L/LL4 Western	Australia,	Australia 22
+Segowlie 626 Chondrite LL6 Bihar,	India 109.2
+Seguin 925 Chondrite H6 Kansas,	USA 397.4
+Seibert	(a) 480 Chondrite H5 Colorado,	USA 843.4
+Seligman 583 Iron IAB-MG Arizona,	USA 249.5
+Selma 704 Chondrite H4 South	Dakota,	USA 633.8
+Semarkona 1789 Chondrite LL3.00 Madhya	Pradesh,	India 0.09
+Seminole 758 Chondrite H4 Texas,	USA 68.7
+Seminole	(b) 823 Chondrite H4 Texas,	USA 37.7
+Seminole	(c) 1199 Chondrite H4 Texas,	USA 16.7
+Sena 785 Chondrite H4 Aragon,	Spain 116.01
+Seneca 297 Chondrite H4 Kansas,	USA 204
+Seneca	Falls 1096 Iron IIIAB New	York,	USA 51
+Seneca	Township 300 Iron IVA Michigan,	USA 111.7
+Seoni 1490 Chondrite H6 Maharashtra,	India 1.8
+Seres 1115 Chondrite H4 Macedonia,	Greece 116.4
+Sericho 2054 Pallasite Kenya,	Africa 1226.9
+Serra	de	Magé 944 Achondrite Eucrite-cm Pernambuco,	Brazil 2
+Serra	Pelada 2068 Achondrite Eucrite Para,	Brazil 25
+Seth	Ward 1283 Chondrite H5 Texas,	USA 195.7
+Sevilla 784 Chondrite LL4 Andalucia,	Spain 6.9
+Sevrukovo 1187 Chondrite L5 Belgorodskaya	oblast',	Russia 8.3
+Seymchan 1626 Pallasite PMG Magadanskaya	oblast',	Russia
+Shafter	Lake 1645 Chondrite H5 Texas,	USA 467.5
+Shalka 325 Achondrite Diogenite West	Bengal,	India 219.1
+Shallowater 318 Achondrite Aubrite Texas,	USA 321.3
+Shaw 406 Chondrite L6/7	 Colorado,	USA 582.4
+Shawnee 1724 Iron IAB-MG Kansas,	USA 532.7
+Shelburne 109 Chondrite L5 Ontario,	Canada 57.8
+Shergotty 548 Achondrite Martian	(shergottite) Bihar,	India 1.8
+Shields 919 Chondrite H5 Kansas,	USA 175.9
+Shingle	Springs 877 Iron Ungrouped California,	USA 16.3
+Shirahagi 685 Iron IVA Chubu,	Japan 85.2
+Shisr	007 1751 Achondrite Ureilite Zufar,	Oman 1.37
+Shrewsbury 233 Iron IAB-sLL Pennsylvania,	USA 23.7
+Shytal 324 Chondrite L6 Dhaka,	Bangladesh 139.7
+Sidney 643 Chondrite L Nebraska,	USA 30.9
+Siena 554 Chondrite LL5 Toscana,	Italy 39.9
+Sierra	Colorada 1541 Chondrite L5 Rio	Negro,	Argentina 50.5
+Sierra	County 1375 Chondrite H5 New	Mexico,	USA 42.2
+Sikhote-Alin 671 Iron IIAB Primorskiy	kray,	Russia 114211.4
+Silver	Bell 793 Iron IIAB Arizona,	USA 298.8
+Silver	Crown 1748 Iron IAB-MG Wyoming,	USA 5.49
+Silverton	(Texas) 1312 Chondrite H4 Texas,	USA 14.9
+Simbirsk	(of	P.	Partsch) 1142 Chondrite OC Ul'yanovskaya	oblast',	Russia 0.3
+Simmern 591 Chondrite H5 Rhieinland-Pfalz,	Germany 67.4
+Simondium 962 Mesosiderite A4 Southern	Cape,	South	Africa 14.8
+Sindhri 625 Chondrite H5 Sind,	Pakistan 29
+Sioux	County 198 Achondrite Eucrite-pmict Nebraska,	USA 653.5
+Ski 1011 Chondrite L6 Akershus,	Norway 17.8
+Skookum	(Klondike) 873 Iron IVB Yukon	Territory,	Canada 57
+Skookum	(Skookum	Gulch) 1223 Iron IVB Yukon	Territory,	Canada 263.8
+Slavetic 1143 Chondrite H5 Croatia 0.4
+Sleeper	Camp	001 1388 Chondrite L6 Western	Australia,	Australia 86.1
+Slobodka 730 Chondrite L4 Smolenskaya	oblast',	Russia 22.9
+Slovak 1248 Chondrite H5 Arkansas,	USA 36.9
+Smith	Center 409 Chondrite L6 Kansas,	USA 318.4
+Smith's	Mountain 507 Iron IIIAB North	Carolina,	USA 90.2
+Smithland 1097 Iron IVA Kentucky,	USA 26.6
+Smithonia 1177 Iron IIAB Georgia,	USA 2773.9
+Smithville 111 Iron IAB-MG Tennessee,	USA 1338.5
+Smithville	(Cookville) 888 Iron IAB-MG Tennessee,	USA 37.4
+Snyder 1642 Chondrite H3 Texas,	USA
+Snyder	Hill 1543 Chondrite L5 Arizona,	USA 17.9
+Social	Circle 1182 Iron IVA Georgia,	USA 20.3
+Soko-Banja 858 Chondrite LL4 Serbia,	Serbia	and	Montenegro 14.1
+Sombrerete 1342 Iron IAB-sHL Zacatecas,	Mexico 48
+Somesbar 1205 Chondrite H6 California,	USA 38.7
+Songyuan 1697 Chondrite L6 Jilin,	China		 8.13
+Soper 303 Iron Ungrouped Oklahoma,	USA 33.4
+South	Bend 1180 Pallasite PMG Indiana,	USA 153.7
+South	Byron 358 Iron Ungrouped New	York,	USA 457.8
+South	Oman 829 Chondrite EH4/5 Al	Wusta,	Oman 5.9
+Southern	Arizona 1179 Iron IAB-sLL Arizona,	USA 46.2
+Spade 1495 Chondrite H6 Texas,	USA 262.4
+Spearman 230 Iron IIIAB Texas,	USA 426
+Springer 1647 Chondrite H5 Oklahoma,	USA 243.1
+Springfield 379 Chondrite L6 Colorado,	USA 857.7
+Springlake 1613 Chondrite L6 Texas,	USA
+Springwater 135 Pallasite PMG-an Sasketchewan,	Canada 841.92
+Squaw	Creek 1646 Iron IIAB Texas,	USA 294.4
+St.	Ann 114 Chondrite H6 Nebraska,	USA 171.7
+St.	Denis	Westrem 1139 Chondrite L6 Oost-Vlaanderen,	Belgium 3
+St.	Francois	County 173 Iron IC Missouri,	USA 556.3
+St.	Genevieve	County 139 Iron IIIF Missouri,	USA 56025.7
+St.	Germain-du-Pinel 1016 Chondrite H6 Bretagne,	France 9.5
+St.	Lawrence 802 Chondrite LL6 Kansas,	USA 79.5
+St.	Louis 924 Chondrite H4 Missouri,	USA 0.8
+St.	Mark's 737 Chondrite EH5 Eastern	Cape,	South	Africa 28.8
+St.	Mesmin 204 Chondrite LL6 Champagne-Ardenne,	France 655.1
+St.	Michel 104 Chondrite L6 Mikkeli,	Finland 202.7
+St.	Peter 1542 Chondrite L5 Kansas,	USA 51.6
+Stalldalen 185 Chondrite H5 Orebro,	Sweden 81.4
+Stannern 363 Achondrite Eucrite-mmict Jihomoravsky,	Czech	Republic 206.3
+Starvation	Flat 1652 Chondrite L5 	Nevada,	USA 21
+Statesboro 1597 Chondrite L5 Georgia,	USA 16.64
+Staunton 155 Iron IIE Virginia,	USA 1571.8
+Stavropol 248 Chondrite L6 Stavropol'skiy	kray,	Russia 5
+Steinbach 261 Iron IVA-an Sachsen,	Germany 43.4
+Sterley 1782 Pallasite PMG Texas,	USA 143.41
+Sterlitamak 2076 Iron IIIAB Respublika	Bashkortostan,	Russia 6500
+Stoneham 1552 Chondrite H5 Colorado,	USA 4.2
+Stonington 514 Chondrite H5 Colorado,	USA 689.4
+Sublette 755 Chondrite L6 Kansas,	USA 120.1
+Suizhou 1412 Chondrite L6 Hubei,	China 1040.3
+Sulagiri 1848 Chondrite LL6 Tamil	Nadu,	India 11.66
+Sultanpur 640 Chondrite L/LL6 Uttar	Pradesh,	India 0.4
+Summerfield 1215 Chondrite L5 Texas,	USA 75.5
+Supuhee 537 Chondrite H6 Uttar	Pradesh,	India 12.2
+Surprise	Springs 1176 Iron IAB-sLL California,	USA 78.8
+Sutter's	Mill 1767 Chondrite C California,	USA
+Sutton 759 Chondrite H5 Nebraska,	USA 104.3
+Suwanee	Spring 1204 Chondrite L5 New	Mexico,	USA 105.9
+Tabarz 1098 Iron IAB-MG Thuringen,	Germany 4.9
+Tabor 1107 Chondrite H5 Jihocesky,	Czech	Republic 22.4
+Tadjera 949 Chondrite L5 Setif,	Algeria 27
+Tafassasset 1815 Chondrite CR-an Agadez,	Niger 9.4
+Tagish	Lake 1684 Chondrite C2-ung British	Columbia,	Canada
+Tagounite 1399 Iron IIIAB Souss-Massa-Draa,	Morocco 435.3
+Taiban 541 Chondrite L5 New	Mexico,	USA 5328.3
+Taiban	(b) 1064 Chondrite LL6 New	Mexico,	USA 58
+Takenouchi 917 Chondrite H5 Kinki,	Japan 2.4
+Talampaya 1456 Achondrite Eucrite-cm Argentina 326.3
+Talpa 1295 Chondrite H6 Texas,	USA 180.1
+Tamarugal	 1015 Iron IIIAB Tarapaca,	Chile 214.4
+Tambo	Quemado 605 Iron IIIAB Ayacucho,	Peru 84.8
+Tamdakht 1682 Chondrite H5 Souss-Massa-Draa,	Morocco 451.8
+Tamentit 1175 Iron IIIAB Adrar,	Algeria 77.8
+Tank	Mountains 2034 Chondrite L6 Arizona,	USA 192.1
+Tarkak 2081 Iron IIIAB Suwalki,	Poland	 97.6
+Tatahouine 835 Achondrite Diogenite Tatawin,	Tunisia 32.6
+Tauk 861 Chondrite L6 Sala	ad	Din,	Iraq 10.8
+Tawallah	Valley 602 Iron IVB Northern	Territory,	Australia 11
+Tazewell 289 Iron IAB-sLH	 Tennessee,	USA 6779
+Tell 735 Chondrite H6 Texas,	USA 147.4
+Temple 689 Chondrite L6 Texas,	USA 259.7
+Temple	Bar 1452 Chondrite CR Arizona,	USA 10.3
+Tenham 674 Chondrite L6 Queensland,	Australia 720.4
+Tennasilm 863 Chondrite L4 Estonia 22.6
+Ternera	(Galleguillos) 983 Iron IVB Atcama,	Chile 17
+Texline 415 Chondrite H5 Texas,	USA 7374.1
+Thiel	Mountains 1174 Pallasite PMG Antarctica 95.28
+Thika 1714 Chondrite L6 Central,	Kenya 406.7
+Thuathe 1621 Chondrite H4/5 Berea,	Lesotho 619.49
+Thule 798 Iron IIIAB Nordgronland,	Greenland 169.4
+Thumrayt	001 1685 Pallasite PMG Zufar,	Oman 126.7
+Thunda 121 Iron IIAB Queensland,	Australia 734.8
+Tiberrhamine	 1008 Chondrite L6 Adrar,	Algeria 99
+Tierra	Blanca 1401 Achondrite Winonaite Texas,	USA 2
+Tilden 331 Chondrite L6 Illinois,	USA 15.5
+Timmersoi 847 Chondrite L5 Agadez,	Niger 75.4
+Timochin 1024 Chondrite H5 Kaluzhskaya	oblast',	Russia 53.2
+Tinnie 1473 Iron IVB New	Mexico,	USA 92.3
+Tirhert 1880 Achondrite Eucrite-unbr Guelmim-Es-Semara,	Morocco 92.864
+Tirupati 616 Chondrite H6 Andhra	Pradesh,	India 33.7
+Tishomingo 1544 Iron Ungrouped Oklahoma,	USA 2862.9
+Tissint 1744 Achondrite Martian	(shergottite) Guelmim-Es-Semara,	Morocco 378.2
+Tjabe 1144 Chondrite H6 Jawah	Tenga,	Indonesia 22.8
+Tjerebon 1238 Chondrite L5 Jawah	Barat,	Indonesia 31.2
+Tlacotepec 113 Iron IVB Puebla,	Mexico 5380.1
+Tobe 1297 Chondrite H4 Colorado,	USA 76.6
+Tokio	(a) 1047 Chondrite H5 Texas,	USA 46
+Toluca 128 Iron IAB-sLL Mexico,	Mexico 89393.69
+Toluca	(Amates) 72 Iron IAB-sLL Mexico,	Mexico 21.1
+Toluca	(Leeds) 69 Iron IAB-sLL Mexico,	Mexico 652
+Toluca	(Tacubaya) 115 Iron IAB-sLL Mexico,	Mexico 357.7
+Tomakovka 1492 Chondrite LL6 Dnepropetrovsky,	Ukraine 7.5
+Tomatlan 561 Chondrite H6 Jalisco,	Mexico 2.7
+Tombigbee	River 820 Iron IIG Alabama,	USA 91.8
+Tomhannock	Creek 574 Chondrite H5 New	York,	USA 5.8
+Tonganoxie 120 Iron IIAB Kansas,	USA 198.3
+Torrington 510 Chondrite H6 Wyoming,	USA 47.3
+Toubil	River 880 Iron IIIAB Kemerovskaya	oblast',	Russia 88.4
+Toulon 896 Chondrite H5 Illinois,	USA 22.1
+Toulouse 1145 Chondrite H6 Midi-Pyrenees,	France 0.4
+Tourinnes-la-Grosse 342 Chondrite L6 Walloon	Brabant,	Belgium 53.6
+Travis	County	(a) 225 Chondrite H5 Texas,	USA 378.3
+Trenton 136 Iron IIAB Wisconsin,	USA 2349.5
+Trenzano 123 Chondrite H3/4 Lombardia,	Italy 19.9
+Tres	Castillos 1411 Iron Ungrouped Chihuahua,	Mexico 8564.7
+Treysa 592 Iron IIIAB-an Hessen,	Germany 100.4
+Trilby	Wash 1556 Chondrite L4 Arizona,	USA 87.4
+Troup 276 Chondrite L6 Texas,	USA 2.6
+Truckton 1286 Chondrite H5 Colorado,	USA 2.3
+Tryon 229 Chondrite L6 Nebraska,	USA 5279.4
+Trysil 1012 Chondrite L/LL6 Hedmark,	Norway 6.1
+Tsarev 1264 Chondrite L5 Volgogradskaya	oblast',	Russia 423.2
+Tucson 122 Iron Ungrouped Arizona,	USA 888.1
+Tulia	(a) 117 Chondrite H3-4 Texas,	USA 3928
+Turtle	Lake 1654 Chondrite L5 Wisconsin,	USA
+Turtle	River 815 Iron IIIAB Minnesota,	USA 361.5
+Tuxtuac 1218 Chondrite LL5 Zacatecas,	Mexico 135.7
+Twentynine	Palms 669 Chondrite L California,	USA 28.4
+Two	Buttes	(a) 831 Chondrite H5 Colorado,	USA 191.9
+Two	Buttes	(b) 993 Chondrite H Colorado,	USA 139.8
+Twodot 1881 Chondrite H6 Montana,	USA 5.3
+Tysnes	Island 770 Chondrite H4 Hordaland,	Norway 24.7
+Uberaba 940 Chondrite H5 Minas	Gerais,	Brazil 9.5
+Ucera 830 Chondrite H5 Falcon,	Venezuela 177.7
+Udei	Station 1038 Iron IAB-ung Benue,	Nigeria 135
+Uden 595 Chondrite LL7 noord	Brabant,	Netherlands 6.9
+Uegit 980 Iron IIIAB Bakool,	Somalia 57.7
+Ulysses 279 Chondrite H4 Kansas,	USA 1227.1
+Um	Habib 1281 Chondrite L6 Ash	Sharqiya,	Saudi	Arabia 44.4
+Umbarger 1217 Chondrite L6 Texas,	USA 193.3
+Umm	Ruaba 1051 Chondrite L5 Kurdufan,	Sudan 96.9
+Union	County 326 Iron IC Georgia,	USA 389
+Unter-Mässing 593 Iron IIC Bayern,	Germany 30
+Uruachic 1360 Iron IIIAB Chihuahua,	Mexico 1426.3
+Uruaçu 1787 Iron IAB-MG Goias,	Brazil 91.98
+Ute	Creek 350 Chondrite H4 New	Mexico,	USA 382.2
+Utrecht 769 Chondrite L6 Utrecht,	Netherlands 52.3
+Uvalde 1589 Chondrite H5 Texas,	USA 97.6
+Uwet 140 Iron IIAB Cross	River,	Nigeria 24.6
+Vaca	Muerta 124 Mesosiderite Mesosiderite-A1 Antofagsta,	Chile 1328
+Valera 1447 Chondrite L5 Trujillo,	Venezuela 146.3
+Valley	Wells 946 Chondrite L6 California,	USA 16
+Veevers 1462 Iron IIAB Western	Australia,	Australia 39.6
+Vera 686 Chondrite L/LL4 Santa	Fe,	Argentina 6.8
+Veramin 975 Mesosiderite B2 Tehran,	Iran 8.3
+Verkhne	Udinsk 249 Iron IIIAB Respublika	Buryatiya,	Russia 395.9
+Verkhnyi	Saltov 1679 Iron IIIAB Khar'kov,	Ukraine
+Vermillion 1484 Pallasite Ungrouped Kansas,	USA 1097
+Vernon	County 575 Chondrite H6 Wisconsin,	USA 1.4
+Vicência	 1996 Chondrite LL3.2 Pernambuco,	Brazil 19.26
+Viedma 1494 Chondrite L5 Rio	Negro,	Argentina 255.9
+Vigarano 590 Chondrite CV3 Emilia-Romagna,	Italy 12.7
+Villa	Coronado 1240 Chondrite H5 Chihuahua,	Mexico 109.1
+Villa	Natamoros 1338 Chondrite L3.7 Chihuahua,	Mexico 4.2
+Viñales 2118 Chondrite L6 Cuba
+Vishnupur 945 Chondrite LL4-6 West	Bengal,	India 10.4
+Vouillé 572 Chondrite L6 Poitou-Charentes,	France 327.8
+Vulcan 976 Chondrite H6 Alberta,	Canada 8.7
+Vyatka 1745 Chondrite H4 Kirovskaya	oblast',	Russia 8.9
+Wabar 607 Iron IIIAB Ash	Sharqiya,	Saudi	Arabia 181.7
+Wabar	(Nejed) 86 Iron IIIAB Ash	Sharqiya,	Saudi	Arabia 186.9
+Waconda 127 Chondrite L6 Kansas,	USA 25957.2
+Wagon	Mound 1419 Chondrite L6 New	Mexico,	USA 962.8
+Wairarapa	Valley 1146 Chondrite H6 Wellington,	New	Zealand 12.5
+Waka 1292 Chondrite H6 Texas,	USA 88.9
+Waldo 423 Chondrite L6 Kansas,	USA 351.5
+Waldron	Ridge 1039 Iron IAB	complex Tennessee,	USA 34.6
+Walker	County 543 Iron IIAB Alabama,	USA 89.2
+Wallapai 58 Iron IID Arizona,	USA 526.9
+Walltown 825 Chondrite L6 Kentucky,	USA 16.6
+Walters 655 Chondrite L6 Oklahoma,	USA 240.9
+Waltman 1303 Chondrite L4 Wyoming,	USA 193.7
+Warburton	Range 923 Iron IVB Western	Australia,	Australia 158.6
+Warden 1343 Chondrite H5 Western	Australia,	Australia 440.4
+Wardswell	Draw 1065 Chondrite L6 Texas,	USA 36.6
+Warm	Springs	Wilderness 1545 Chondrite H4-6 Arizona,	USA 35.2
+Warrenton 170 Chondrite CO3.7 Missouri,	USA 2.4
+Washougal 442 Achondrite Howardite Washington,	USA 8
+Waterville 453 Iron IAB-ung Washington,	USA 117
+Watson	001 1382 Iron IIE South	Australia,	Australia 3930.9
+Watson	002 1414 Chondrite CK3-an South	Australia,	Australia 10.3
+Wayside 1029 Chondrite H6 Texas,	USA 82.4
+Weatherford 459 Chondrite CBa Oklahoma,	USA 16.35
+Weaver	Mountains 313 Iron IVB Arizona,	USA 2519.5
+Weekeroo	Station 133 Iron IIE-an South	Australia,	Australia 4168.3
+Weldona 231 Chondrite H4 Colorado,	USA 6849.2
+Welland 502 Iron IIIAB Ontario,	Canada 4.7
+Wellington 819 Chondrite H5 Texas,	USA 771
+Wellman	(a) 479 Chondrite H5 Texas,	USA 23176.1
+Wellman	(c) 809 Chondrite H4 Texas,	USA 503.6
+Wellman	(d) 897 Chondrite H Texas,	USA 20
+Wells 1575 Chondrite LL3.3 Texas,	USA 83.3
+Wessely 1147 Chondrite H5 Jihomarovsky,	Czech	Republic 1.9
+West	Forrest 1363 Chondrite H5 Western	Australia,	Australia 67.2
+West	Point 1048 Chondrite L6 Texas,	USA 38.3
+West	Reid 1368 Chondrite H6 Western	Australia,	Australia 21.6
+Western	Arkansas 278 Iron IVA Arkansas,	USA 17
+Weston 238 Chondrite H4 Connecticut,	USA 698.1
+Whetstone	Mountains 1717 Chondrite H5 Arizona,	USA 131
+Whitecourt 2044 Iron IIIAB Alberta,	Canada 10.63
+Whitman 418 Chondrite H5 Nebraska,	USA 148.8
+Wichita	County 232 Iron IAB-MG Texas,	USA 137.6
+Wickenburg	(stone) 449 Chondrite L6 Arizona,	USA 2690.05
+Wickenburg	(stone)	(Vulture) 1415 Chondrite L6 Arizona,	USA 3843.6
+Wikieup 772 Chondrite H5 Arizona,	USA 290.4
+Wilburton 478 Chondrite H5 Kansas,	USA 41.2
+Wildara 1330 Chondrite H5 Western	Australia,	Australia 68.2
+Wiley 380 Iron IIC Colorado,	USA 854.1
+Willamette 141 Iron IAB Oregon,	USA 2462.1
+Willard	(a) 1910 Chondrite L6 New	Mexico,	USA 0.5
+Willcox	Playa	002 1537 Chondrite L6 Arizona,	USA 1.7
+Willcox	Playa	009 1719 Mesosiderite Arizona,	USA 59.02
+Williston 1351 Iron IIIAB North	Dakota,	USA 453.2
+Willow	Creek 227 Iron IIIE Wyoming,	USA 17142.8
+Willowbar 979 Chondrite L6 Oklahoma,	USA 1111.1
+Willowdale 951 Chondrite H4 Kansas,	USA 14
+Wilmot 501 Chondrite H6 Kansas,	USA 441.1
+Wiluna 1023 Chondrite H5 Western	Australia,	Australia 2404
+Wimberley 1169 Iron IIIAB Texas,	USA 435.7
+Winner 1813 Chondrite L3.9 South	Dakota,	USA 177.74
+Winona 126 Achondrite Winonaite Arizona,	USA 222.6
+Wittekrantz 736 Chondrite L5 West	Cape,	South	Africa 29.5
+Wold	Cottage 577 Chondrite L6 England,	UK 7.4
+Wolf	Creek 673 Iron IIIAB Western	Australia,	Australia 1189.1
+Wolsey 1378 Iron IAB-MG South	Dakota,	USA 2662.7
+Wonyulgunna 1158 Iron IIIAB Western	Australia,	Australia 18.2
+Wood's	Mountain 393 Iron IVA North	Carolina,	USA 51.9
+Woodbine 808 Iron IAB-ung Illinois,	USA 306.3
+Woodward	County 143 Chondrite H4 Oklahoma,	USA 53.4
+Woolgorong 712 Chondrite L6 Western	Australia,	Australia 95.5
+Wooramel 1336 Chondrite L5 Western	Australia,	Australia 50.5
+Wooster 1099 Iron IAB-sLL Ohio,	USA 9.8
+Wray	(a) 426 Chondrite H4-an Colorado,	USA 107.8
+Wynella 807 Chondrite H4 Queensland,	Australia 203
+Xining 2030 Chondrite L5 Qinghai,	China 14.39
+Xiquipilco	no.	2 588 Iron Mexico 312
+Yamato	694 1062 Chondrite H6 Antarctica 0.29
+Yandama 955 Chondrite L6 New	South	Wales,	Australia 18.1
+Yanhuitlan 129 Iron IVA Oaxaca,	Mexico 2482.7
+Yanhuitlan 162 Iron IVA Oaxaca,	Mexico 2482.7
+Yarle	Lakes	001 1389 Chondrite H5 South	Australia,	Australia 78.1
+Yarri 679 Iron IIIAB Western	Australia,	Australia 185.8
+Yatoor 259 Chondrite H5 Andhra	Pradesh,	India 89.5
+Yenberrie 874 Iron IAB-MG Northern	Territory,	Australia 103.2
+Yilmia 1522 Chondrite EL6 Western	Australia,	Australia 0.1
+Yocemento 1249 Chondrite L4 Kansas,	USA 23.8
+Yonozu 775 Chondrite H4/5 Tohoku,	Japan 18.7
+York	(iron) 1036 Iron IIIAB Nebraska,	USA 473.1
+York	(stone) 323 Chondrite L6 Nebraska,	USA 42.2
+Yorktown	(Texas) 898 Chondrite H5 Texas,	USA 26.7
+Youanmi 1159 Iron IIIAB Western	Australia,	Australia 8.3
+Youndegin 157 Iron IAB-MG Western	Australia,	Australia 644.6
+Youndegin	(Mooranopin) 1037 Iron IAB-MG Western	Australia,	Australia 26.4
+Youndegin	(Mount	Stirling) 157 Iron IAB-MG Western	Australia,	Australia 1198.2
+Ysleta 1576 Iron Ungrouped Texas,	USA 2209
+Yucca	028 1850 Chondrite H6 Arizona,	USA 0.8
+Yucca	029 1849 Chondrite H3 Arizona,	USA 45.51
+Yucca	031 2002 Chondrite H6 Arizona 5.27
+Yurtuk 746 Achondrite Howardite Zaporozh'ye,	Ukraine 35.8
+Zaborzika 728 Chondrite L6 Zhitomir,	Ukraine 16.1
+Zacatecas	(1792) 130 Iron Ungrouped Zacatecas,	Mexico 751.6
+Zacatecas	(1969) 1780 Iron IIIAB Mexico 189.1
+Zaffra 1042 Iron IAB-MG Oklahoma,	USA 84.8
+Zag 1600 Chondrite H3-6 Saguia	el	Hamra,	Western	Sahara 769.3
+Zag	(b) 1486 Achondrite Winonaite Saguia	el	Hamra,	Western	Sahara 4.4
+Zagami 1306 Achondrite Martian	(shergottite) Katsina,	Nigeria 85.3
+Zagora 1321 Iron IAB-ung Souss-Massa-Draa,	Morocco 1845
+Zaisho 1152 Pallasite PMG-an Shikoku,	Japan 0.8
+Zapaliname 1468 Iron IAB-MG Nuevo	Leon,	Mexico 231.2
+Zaragoza 1585 Iron IVA-an Aragon,	Spain
+Zavid 771 Chondrite L6 Bosnia	and	Herzegovina 144.1
+Zebrak 860 Chondrite H5 Stredocesky,	Czech	Republic 25
+Zemaitkiemis 1407 Chondrite L6 Lithuania 15.2
+Zenda 666 Iron IAB	complex Wisconsin,	USA 60.3
+Zerhamra 1272 Iron IIIAB-an Bechar,	Algeria 130.2
+Zhovtnevyi 743 Chondrite H6 Donetsk,	Ukraine 373.8
+Zmenj 1602 Achondrite Howardite Brest,	Belarus
+Zomba 868 Chondrite L6 Malawi 29.6

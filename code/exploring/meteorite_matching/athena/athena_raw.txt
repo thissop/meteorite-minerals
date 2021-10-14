@@ -1,0 +1,129 @@
+1969 Allende CV3 Meteorite, Chihuahua, Mexico	NUWAITE	Ni6GeS2
+1969 Allende CV3 Meteorite, Chihuahua, Mexico	PAQUEITE	Ca3TiSi2(Al,Ti,Si)3O14
+1969 Allende CV3 Meteorite, Chihuahua, Mexico	HUTCHEONITE	Ca3Ti2(SiAl2)O12
+1969 Allende CV3 Meteorite, Chihuahua, Mexico	BURNETTITE	CaVAlSiO6
+1969 Allende CV3 Meteorite, Chihuahua, Mexico	BUTIANITE	Ni6SnS2
+1969 Allende Meteorite, Chihuahua, Mexico	TISTARITE	Ti2O3
+1969 Allende Meteorite, Chihuahua, Mexico	DAVISITE	Ca(Sc,Ti,Mg)(AlSiO6)
+1969 Allende Meteorite, Chihuahua, Mexico	HIBONITE-(Fe) = CHIHUAHUAITE	Fe++[Al12]O19
+1969 Allende Meteorite, Chihuahua, Mexico	MONIPITE	MoNiP
+1969 Allende Meteorite, Chihuahua, Mexico	GROSSMANITE	CaTi+++(AlSiO6)
+1969 Allende Meteorite, Chihuahua, Mexico	CHIHUAHUAITE	Fe++[Al12]O19
+1969 Allende meteorite, Chihuahua, Mexico	KANGITE	(Sc,Ti,Al,Zr,Mg,Ca,[])2O3
+2011 Tissint meteorite, Tissint, Tata, Morocco (18 July 2011)	TISSINTITE	(Ca,Na,[])AlSi2O6
+2011 Tissint meteorite, Tissint, Tata, Morocco (18 July 2011)	AHRENSITE	Fe2SiO4
+Abee enstatite chondrite meteorite, Alberta, Canada. Also in Adhi-Kot (Pakistan) type EH4 and Saint-Sauveur (France) type EH5 meteorites.	KEILITE	(Fe,Mg)S
+Agpalilik fragment, Cape York Meteorite, Greenland	BUCHWALDITE	NaCaPO4
+Agpalilik fragment, Cape York meteorite, Greenland	CARLSBERGITE	CrN
+Albareto meteorite, Albareto, Modena, Emilia-Romagna, Italy	TROILITE	FeS
+Alfianello, Dhurmsala, Pultusk and Rich Mountain meteorites	MERRILLITE	Ca9Na(Mg,Fe)(PO4)7
+Allende CV3 meteorite, Pueblito de Allende, Chihuahua, Mexico	ADRIANITE	Ca12(Al4Mg3Si7)O32Cl6
+Allende CV3 meteorite, Pueblito de Allende, Chihuahua, Mexico	KAITIANITE	Ti+++2Ti++++O5
+Allende meteorite (8 February 1969). Chihuahua, Mexico	PANGUITE	(Ti++++,Sc,Al,Mg,Zr,Ca)1,8O3
+Allende meteorite (Qutrixpileo meteorite), Pueblito de Allende, Chihuahua, Mexico	MAJINDEITE	Mg2Mo3O8
+Allende meteorite,Pueblito de Allende, Chihuahua, Mexico	BECKETTITE	Ca2V6Al6O20
+Andrar, Inman and Tieschitz chondrite meteorites and Indarch enstatite chondrite meteorite	NIERITE	Si3N4
+Augustinovka meteorite, Dnepropetrovsk Oblast, Ukraine	XENOPHYLLITE	Na4Fe++7(PO4)6
+Bolsonde Mapimi meteorite, Mexico	DAUBREELITE	Fe++Cr2S4
+Bustee meteorite, Gorakhpur, Basti distr., Uttar Pradesh, India	OSBORNITE	TiN
+Bustee meteorite, Gorakhpur, Basti distr., Uttar Pradesh, India	OLDHAMITE	(Ca,Mg,Fe,Mn)S
+Bustee meteorite, Gorakhpur, Basti distr., Uttar Pradesh, India	HEIDEITE	(Fe,Cr)1+x(Ti,Fe)2S4
+Butler iron meteorite, Bates Co., Missouri, USA	NICKELPHOSPHIDE	(Ni,Fe)3P
+Canyon Diablo meteorite, Meteor Crater, Coconino Co., Arizona, USA	KRINOVITE	Na2Mg4Cr2Si6O20
+Canyon Diablo meteorite, Meteor Crater, Coconino Co., Arizona, USA	LONSDALEITE	C
+Canyon Diablo meteorite, Meteor Crater, Coconino Co., Arizona, USA	MOISSANITE	SiC
+Canyon Diablo meteorite, Meteor Crater, Coconino Co., Arizona, USA	COESITE	SiO2
+Carleton iron meteorite, Carleton, Hamilton Co., Texas, USA	CHLADNIITE	Na12Ca5(Mg,Fe++)43(PO4)36
+Colomera iron meteorite, Granada, Spain	YAGIITE	(Na,K)1,5Mg2(Al,Mg)3(Si,Al)12O30
+Coorara meteorite crater, Rawlina, Western Australia, Australia	MAJORITE	{Mg3}[SiMg](Si3)O12
+Copiapo (Copiapó) meteorite, Atacama, Chile	SCHREIBERSITE	(Fe,Ni)3P
+D'Orbigny angrite meteorite, Buenos Aires, Argentina	KURATITE	Ca2(Fe++5Ti)O2[Si4Al2O18]
+D'Orbigny meteorite, Coronel Suaréz, Buenos Aires, Argentina	TSANGPOITE	Ca5(PO4)2(SiO4)
+D'Orbigny meteorite, Coronel Suaréz, Buenos Aires, Argentina	MATYHITE	Ca9(Ca0,5[]0,5)Fe++(PO4)7
+Dayton meteorite, Montgomery Co., Ohio, USA	PANETHITE	(Na,Ca,K)2(Mg,Fe++,Mn)2(PO4)2
+Dayton meteorite, Montgomery Co., Ohio, USA	BRIANITE	Na2CaMg(PO4)2
+Dhofar 280 (Dh-280), a lunar fragmental breccia meteorite, Dhofar region, Oman (found April 2001)	HAPKEITE	Fe2Si
+Dronino Meteorite, Kasimov, Ryazan Oblast, 350 km South of Moscow, Russia	CHUKANOVITE	Fe++2(CO3)3(OH)2
+Dronino meteorite, Kasimov District, Ryazanskaya Oblast, Moscow, Russia	DRONINOITE	Ni6Fe+++2(OH)16Cl2.4H2O
+Estherville meteorite, Emmet Co., Iowa, USA	STANFIELDITE	Ca4(Mg,Fe++,Mn)5(PO4)6
+From martian meteorite ?	CHEVKINITE-(Nd)	(Nd,REE)4(Fe++,Mg)(Fe++,Ti,Fe+++)2(Ti,Fe+++)2(Si2O7)2O8 (?)
+From the Acfer 214 CH carbonaceous chondrite meteorite, Tanezrouft, Tamanghasset Province, Algeria	ADDIBISCHOFFITE	Ca2Al6Al6O20
+Grant IIIB Meteorite, Zuni Mts, Grants, New Mexico, USA	GALILEIITE	(Na,K)12(Fe++,Mn++,Cr)48(PO4)36
+Halamish wadi (Zuq Tamrur), Hatrurim Basin, HaDarom, Israel; Marjalahti meteorite, Viipuri, Pitkyaranta (Pitkäranta), Karelia, Russia	NAZAROVITE	Ni12P5
+Horse Creek iron meteorite, Baca Co., Colorado, USA	PERRYITE	(Ni,Fe)8(Si,P)3
+Indarch meteorite (enstatite chondrite, EH4), Shusha, Elisavetpol, Azerbaijan	RUDASHEVSKYITE	(Fe,Zn)S
+Indarch meteorite, Shusha, Aghjabadi District, Azerbaijan	ZOLENSKYITE	FeCr2S4
+Indarch meteorite, Shusha, Elisavetpol, Azerbaijan	ROEDDERITE	(Na,K)2(Mg,Fe++)5Si12O30
+Jajh deh Kot Lalu meteorite, Sind Province, Pakistan	SINOITE	Si2N2O
+Jerslev meteorite, Sjaelland, Denmark; Youndegin meteorite, Avon, Western Australia, Australia	ROALDITE	Fe4N
+Kaidun meteorite, South Yemen	ANDREYIVANOVITE	Fe(Cr,Fe)P
+Kaidun meteorite, South Yemen	FLORENSKYITE	Fe(Ti,Ni)P
+Khatyrka CV3 meteorite, Koryak Mountains, Russia	STOLPERITE	AlCu
+Khatyrka CV3 meteorite, Koryak Mountains, Russia	KRYACHKOITE	(Al,Cu)6(Fe,Cu)
+Khatyrka CV3 meteorite, Koryak Mountains, Russia	STEINHARDITE	Al
+Khatyrka CV3 meteorite, Koryak Mountains, Russia	HOLLISTERITE	Al3Fe
+Khatyrka meteorite, Listvenitovyi stream, Khatyrka river, Iomrautvaam Massif, Koryak Upland, Kamchatka, Russia	DECAGONITE	Al71Ni24Fe5
+Kota-Kota meteorite, Marimba distr., Malawi	DJERFISHERITE	K6(Cu,Fe,Ni)24S26Cl
+Madaras (Mezömadaras) meteorite, Harghita, Romania	MERRIHUEITE	(K,Na)2(Fe++,Mg)5Si12O30
+Magura meteorite (Avra meteorite), Slanica, Námestovo, Oravská Magura Mts, Žilina (Zilina) Region, Slovakia	COHENITE	(Fe,Ni,Co)3C
+Marjalahti meteorite, Viipuri, Pitkyaranta mining district, Ladoga Region, Karelia, Russia	KEPLERITE	Ca9(Ca0,5[]0,5)Mg(PO4)7
+Morasko IAB-MG iron meteorite, found in 1914, northern edge of Poznan (Poznań), Poland	CZOCHRALSKIITE	Na4Ca3Mg(PO4)4
+Morasko iron meteorite, Rezerwat przyrody meteoryt Morasko, Poznań (Poznan), Poland	MORASKOITE	Na2Mg(PO4)F
+Muonionalusta iron meteorite, Pajala, ca. 1.5 km NE of lake Kitkiöjärvi, Norrbotten, Lapland, Sweden	MUONIONALUSTAITE	Ni3(OH)4Cl2.4H2O
+Murchison CM2 meteorite (28 September 1969). Near Murchison, Victoria, Australia	MURCHISITE	Cr5S6
+Murchison carbonaceous chondrite meteorite, Murchison, Victoria, Australia	MACHIITE	Al2Ti3O9
+Murchison meteorite, Murchison, Greater Shepparton, Victoria, Australia and Vigarano meteorite, Ferrara Province, Emilia-Romagna, Italy	WARKITE	Ca2Sc6Al6O20
+NWA 8003 meteorite, fall in an unknown locality in Morocco	VESTAITE	(Ti++++Fe++)Ti++++3O9
+NWA 856 Djel Ibone Martian meteorite, Morocco	STOFFLERITE	CaAl2Si2O8
+NWA1934 Meteorite, undisclosed location in north-western Africa	KROTITE	CaAl2O4
+NWA1934 Meteorite, unrecorded location in northwest Africa	BREARLEYITE = CHLORMAYENITE	Ca6Al7O16Cl
+NWA470 Meteorite, Er Rachidia, Morocco	DMITRYIVANOVITE	CaAl2O4
+North Haig meteorite, Sleeper Camp (N), Haig, Western Australia, Australia	SUESSITE	(Fe,Ni)3Si
+Northwest Africa 1054 meteorite (NWA 1054), Sahara, Northwest Africa Meteorites	MELLINIITE	(Ni,Fe)4P
+Norton County enstatite achondrite meteorite, Kansas, USA	CASWELLSILVERITE	NaCrS2
+Norton County enstatite achondrite meteorite, Kansas, USA	SCHOLLHORNITE	Na0,3CrS2.H2O
+Norton County enstatite achondrite meteorite, Nebraska, USA	CRONUSITE	Ca0,2(H2O)2CrS2
+Norton County meteorite, fall in Norton Co., Kansas, USA	CARLETONMOOREITE	Ni3Si
+Ollague Meteorite, Tops, New South Wales, Australia	BARRINGERITE	(Fe,Ni)2P
+Onello iron meteorite, Bolshoy Dolguchan River alluvium, Onello River basin, Aldan shield, Sakha Rep. (Yakutia), Siberia, Russia	ALLABOGDANITE	(Fe,Ni)2P
+Oued Awlitis 001 Lunar meteorite, Boujdour Province, Laâyoune-Sakia El Hamra Region, Morocco	DONWILHELMSITE	CaAl4Si2O11
+Peace River meteorite, Alberta, Canada	WADSLEYITE	(Mg,Fe++)2SiO4
+Santa Catharina Meteorite (Brazil)	ARUPITE	(Ni,Fe++)3(PO4)2.8H2O
+Shergotty Mars meteorite, Bihar, India. Zagami meteorite, Nigeria	SEIFERTITE	SiO2
+Shergotty Martian meteorite, Gaya District, Bihar, India	FERROMERRILLITE	Ca9NaFe++(PO4)7
+Shergotty Martian meteorite, fall at Shergotty, Gaya district, Bihar, India	FEIITE	Fe++2(Fe++Ti++++)O5
+Shergotty Martian meteorite, fall at Shergotty, Gaya district, Bihar, India	LIUITE	FeTiO3
+Shergotty Martian meteorite, fall at Shergotty, Gaya district, Bihar, India	TSCHAUNERITE	(Fe++)(Fe++Ti++++)O4
+Sixiangkou meteorite, Sixiangkou, Gaogang District, Taizhou, Jiangsu, China	LINGUNITE	NaAlSi3O8
+Social Circle iron meteorite, Walton Co., Georgia, USA	JOEGOLDSTEINITE	MnCr2S4
+Springwater meteorite, Springwater, Saskatchewan, Canada	FARRINGTONITE	Mg3(PO4)2
+Suevite breccia of the Ries meteorite impact crater, Altebürg, Germany	AKAOGIITE	TiO2
+Suizhou 1986 Meteorite, Hubei, China	TUITE	gamma-(Ca,Mg,Na)3(PO4)2
+Suizhou L6 chondrite meteorite, Dayanpo, 12,5 km southeast of the city of Suizhou, Hubei Province, China	WANGDAODEITE	FeTiO3
+Suizhou L6 chondrite meteorite, Dayanpo, Hubei, China (holotype); Quebrada Chimborazo (QC) 001 CB3.0 chondrite, Antofagasta, Chile (cotype)	ASIMOWITE	Fe2SiO4
+Suizhou L6 chondrite meteorite, Xihe, Hubei, China	ELGORESYITE	(Mg5Si2)O9
+Suizhou L6 chondrite meteorite, Xihe, Zengdu District, Suizhou Prefecture, Hubei, China	SHENZHUANGITE	NiFeS2
+Suizhou L6 chondrite meteorite, Xihe, Zengdu District, Suizhou, Hubei, China	HIROSEITE	FeSiO3
+Suizhou meteorite, Hubei, China	XIEITE	FeCr2O4
+Suizhou meteorite, Xihe, Zengdu District, Suizhou Prefecture, Hubei, China	HEMLEYITE	FeSiO3
+Tazewell meteorite, Tennessee, USA	LAWRENCITE	(Fe++,Ni)Cl2
+Tenham L6 chondrite meteorite, Tenham Station, Queensland, Australia	BRIDGMANITE	MgSiO3
+Tenham meteorite, South Gregory, Queensland, Australia	RINGWOODITE	(Mg,Fe++)2SiO4
+Tenham meteorite, South Gregory, Queensland, Australia	AKIMOTOITE	(Mg,Fe++)(SiO3)
+Tenham meteorite, Tenham Station, Windorah, Queensland, Australia; Suizhou L6 chondrite meteorite, Xihe, Zengdu Distr., Hubei, China	POIRIERITE	Mg2SiO4
+Tissint Martian meteorite, Tata Province, Souss-Massa Region, Morocco	CHENMINGITE	FeCr2O4
+Toluca meteorite, Xiquipilco, Mexico	KOSMOCHLOR	NaCr+++Si2O6
+Toluca meteorite, Xiquipilco, Mexico; Canyon Diablo meteorite, Coconino Co., Arizona, USA	HAXONITE	(FeNi)23C6
+Tucson Meteorite, Pima Co., Arizona, USA	BREZINAITE	Cr3S4
+Uakit iron meteorite, Baunt District, Buryatia, Russia	GROKHOVSKYITE	CuCrS2
+Uakit iron meteorite, Bauntovskii Evenk dstrict, Buriatia Republic, Russia	UAKITITE	VN
+Vigarano meteorite, Vigarano Pieve, Ferrara, Italy	RUBINITE	Ca3Ti+++2Si3O12
+Wedderburn meteorite, Wedderburn, Loddon Shire, Victoria, Australia	EDSCOTTITE	Fe5C2
+Wolf Creek meteorite crater, Western Australia, Australia	REEVESITE	Ni6Fe+++2(CO3)(OH)16.4H2O
+Wolf Creek meteorite crater, Western Australia, Australia	PECORAITE	Ni3Si2O5(OH)4
+Wolf Creek meteorite crater, Western Australia, Australia	CASSIDYITE	Ca2(Ni,Mg)(PO4)2.2H2O
+Yamato 691 meteorite, Queen Fabiola Mts (Yamato Mts), Queen Maud Land (Dronning Maud Land), Eastern Antarctica, Antarctica	WASSONITE	TiS
+Zagami Martian meteorite, Faskari, Katsina, Nigeria	LIEBERMANNITE	KAlSi3O8
+Zagami meteorite, Zagami, Katsina Province, Nigeria	ZAGAMIITE	CaAl2Si3,5O11
+Zaklodzie (Zaklodzie) enstatite-rich achondrite meteorite, Poland	BUSECKITE	(Fe,Zn,Mn)S
+Zaklodzie (Zaklodzie) enstatite-rich achondrite meteorite, Poland	BROWNEITE	MnS
