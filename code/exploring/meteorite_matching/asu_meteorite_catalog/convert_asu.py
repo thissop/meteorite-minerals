@@ -12,18 +12,16 @@ abs_file_path = os.path.join(script_dir, rel_path)
 names = np.array([])
 types = np.array([])
 
-m_types = []
+type_options = ['Iron', 'Chondrite', 'Martian', 'Unknown', 'Pallasite', 'Achondrite', 'Mesosiderite']
 
-with open(abs_file_path, 'r') as f:
+with open(abs_file_path, 'r', encoding="utf-8") as f:
     for line in f:
-        print(line)
         if 'Meteorite	Name ASU' not in line: 
             
+            line = line.replace('\t', ' ')
             line = re.sub(' +',' ', line)
-            line = line.replace('(','')
-            line = line.replace(')', '')
-
-
+            #line = line.replace('(','')
+            #line = line.replace(')', '')
 
             counter = 0
             for character in line:
@@ -32,33 +30,33 @@ with open(abs_file_path, 'r') as f:
                     counter-=2
                     break
             
+            name = line[0:counter]
 
-            stop_index = counter
-            name = line[0:stop_index]
- 
-            csv_line = re.sub(' +', ',', line)
+            if '(' in line: 
+                paren_index = line.index('(')
+                if counter>=paren_index: 
+                    name = name[0:paren_index]
 
+            names = np.append(names, name)
 
-            type_index_start = 0
-            type_index_end = 0
+            type_found = False
+            for type in type_options: 
+                if type in line: 
+                    types = np.append(types, type)
+                    type_found = True
             
-            counter = 0
-            for character in line: 
-                counter+=1
-                if not(character.isnumeric()): 
-                    if line[counter-2].isnumeric():
-                        type_index_start = counter
-                        break 
-            
+            if type_found == False: 
+                types = np.append(types, 'Unknown')
 
-            sub_line_list = line[type_index_start:].split(' ')
-            
-            meteorite_type = sub_line_list[0]
 
-            m_types.append(meteorite_type)
+names_set = np.array([])
+types_set = np.array([])
 
-        #line_list = re.sub(' +',',',line).split(',')
-        
+for name, type in zip(names, types):
+    if name not in list(names_set):
+        names_set = np.append(names_set, name)
+        types_set = np.append(types_set, type)
 
-print(list(set(m_types)))
-
+zipped = list(zip(names_set, types_set))
+df = pd.DataFrame(zipped, columns=['Name', 'Type'])
+df.to_csv('asu.csv', index=False)
