@@ -805,7 +805,6 @@ Keyes 470 Chondrite L6 Oklahoma,	USA 58.7
 Khairpur 615 Chondrite EL6 Punjab,	Pakistan 28.6
 Khanpur 904 Chondrite LL5 Uttar	Pradesh,	India 11.7
 Kharkov 1131 Chondrite L6 Sunny,	Ukraine
-Kheneg	Ljouâd 2065 Chondrite LL5/6 Guelmime	Es	Smara,	Morocco,	Africa 34.4
 Khetri 1132 Chondrite H6 Rajasthan,	India 2.44
 Khohar 623 Chondrite L3.6 Madhya	Pradesh,India 81.54
 Khor	Temiki 857 Achondrite Aubrite Ash	Sharqiyah,	Sudan 3.7
