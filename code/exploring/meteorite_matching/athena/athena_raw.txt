@@ -45,10 +45,10 @@ Dayton meteorite, Montgomery Co., Ohio, USA	BRIANITE	Na2CaMg(PO4)2
 Dhofar 280 (Dh-280), a lunar fragmental breccia meteorite, Dhofar region, Oman (found April 2001)	HAPKEITE	Fe2Si
 Dronino Meteorite, Kasimov, Ryazan Oblast, 350 km South of Moscow, Russia	CHUKANOVITE	Fe++2(CO3)3(OH)2
 Dronino meteorite, Kasimov District, Ryazanskaya Oblast, Moscow, Russia	DRONINOITE	Ni6Fe+++2(OH)16Cl2.4H2O
-Estherville meteorite, Emmet Co., Iowa, USA	STANFIELDITE	Ca4(Mg,Fe++,Mn)5(PO4)6
-From martian meteorite ?	CHEVKINITE-(Nd)	(Nd,REE)4(Fe++,Mg)(Fe++,Ti,Fe+++)2(Ti,Fe+++)2(Si2O7)2O8 (?)
+Estherville meteorite, Emmet Co., Iowa, USA	STANFIELDITE	nan
+From martian meteorite ?	CHEVKINITE nan
 From the Acfer 214 CH carbonaceous chondrite meteorite, Tanezrouft, Tamanghasset Province, Algeria	ADDIBISCHOFFITE	Ca2Al6Al6O20
-Grant IIIB Meteorite, Zuni Mts, Grants, New Mexico, USA	GALILEIITE	(Na,K)12(Fe++,Mn++,Cr)48(PO4)36
+Grant IIIB Meteorite, Zuni Mts, Grants, New Mexico, USA	GALILEIITE	nan
 Halamish wadi (Zuq Tamrur), Hatrurim Basin, HaDarom, Israel; Marjalahti meteorite, Viipuri, Pitkyaranta (Pitkäranta), Karelia, Russia	NAZAROVITE	Ni12P5
 Horse Creek iron meteorite, Baca Co., Colorado, USA	PERRYITE	(Ni,Fe)8(Si,P)3
 Indarch meteorite (enstatite chondrite, EH4), Shusha, Elisavetpol, Azerbaijan	RUDASHEVSKYITE	(Fe,Zn)S

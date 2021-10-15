@@ -4,9 +4,9 @@ import re
 
 import os
 
-script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
+abs_dir = os.path.dirname(__file__) 
 rel_path = "asu_raw.txt"
-abs_file_path = os.path.join(script_dir, rel_path)
+abs_path = os.path.join(abs_dir, rel_path)
 
 
 names = np.array([])
@@ -14,7 +14,7 @@ types = np.array([])
 
 type_options = ['Iron', 'Chondrite', 'Martian', 'Unknown', 'Pallasite', 'Achondrite', 'Mesosiderite']
 
-with open(abs_file_path, 'r', encoding="utf-8") as f:
+with open(abs_path, 'r', encoding="utf-8") as f:
     for line in f:
         if 'Meteorite	Name ASU' not in line: 
             
