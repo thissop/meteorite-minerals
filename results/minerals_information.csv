@@ -1,0 +1,69 @@
+Mineral,Meteorite(s),chondrite_count,achondrite_count,iron_count,pallasite_count,chemical_formula
+ADDIBISCHOFFITE,Acfer,1,0,0,0, Ca$_2$Al$_6$O$_{20}$ 
+ADRIANITE,Allende,1,0,0,0, Ca$_{12}$(Al$_4$Mg$_3$Si$_7$)O$_{32}$Cl$_6$ 
+AKIMOTOITE*,Tenham,0,0,1,0," (Mg,Fe)SiO$_3$ "
+ASIMOWITE,Suizhou;Quebrada,1,0,0,0, Fe$_2$SiO$_4$ 
+BARRINGERITE*,Ollague,0,0,0,0," (Fe,Ni)$_2$P "
+BECKETTITE,Allende,1,0,0,0, Ca$_2$V$_6$Al$_6$O$_{20}$ 
+BREZINAITE,Tucson,1,0,0,0, Cr$_3$S$_4$ 
+BROWNEITE,Zaklodzie;Zaklodzie,0,0,0,0, MnS 
+BUCHWALDITE,Agpalilik,0,0,0,0, NaCaPO$_4$ 
+BURNETTITE*,Allende,1,0,0,0, CaVAlSiO$_6$ 
+BUSECKITE*,Zaklodzie;Zaklodzie,0,0,0,0," (Fe,Zn,Mn)S "
+BUTIANITE*,Allende,1,0,0,0, Ni$_6$SnS$_2$ 
+CARLETONMOOREITE,Norton County,0,1,0,0, Ni$_3$Si 
+CARLSBERGITE,Agpalilik,0,0,0,0, CrN 
+CASWELLSILVERITE,Norton County,0,1,0,0, NaCrS$_2$ 
+CHLADNIITE*,Carleton,0,0,0,0, Na$_2$CaMg$_7$(PO$_4$)$_6$ 
+CHUKANOVITE*,Dronino,1,0,0,0, Fe$_2$(CO$_3$)(OH)$_2$ 
+COHENITE*,Magura;Avra,0,0,1,0," (Fe,Ni,Co)$_3$C "
+CZOCHRALSKIITE,Morasko,1,0,0,0, Na$_4$Ca$_3$Mg(PO$_4$)$_4$ 
+DAVISITE*,Allende,1,0,0,0, CaScAlSiO$_6$ 
+DECAGONITE*,Khatyrka,0,0,0,0, Al$_{71}$Ni$_{24}$Fe$_5$ 
+DJERFISHERITE*,Kota-Kota,0,0,0,0," K$_6$Na(Fe,Ni,Cu)$_{25}$S$_{26}$Cl "
+DMITRYIVANOVITE,NWA470,0,0,0,0, CaAl$_2$O$_4$ 
+DRONINOITE,Dronino,1,0,0,0, Ni$_3$Fe$^{3+}$Cl(OH)$_8$$\cdot$2H$_2$O 
+FARRINGTONITE*,Springwater,0,0,1,0, Mg$_3$(PO$_4$)$_2$ 
+FLORENSKYITE,Kaidun,0,0,0,0, FeTiP 
+GALILEIITE,Grant,0,0,3,0, NaFe$_4$(PO$_4$)$_3$ 
+GROSSMANITE,Allende,1,0,0,0, CaTi$^{3+}$AlSiO$_6$ 
+HAPKEITE*,Dhofar;Dh-280,1,0,0,0, Fe$_2$Si 
+HAXONITE,Toluca;Canyon Diablo,2,0,2,0," (Fe,Ni)$_{23}$C$_6$ "
+HEIDEITE*,Bustee,0,1,0,0," (Fe,Cr)$^{1+x}$ (Ti,Fe)$_2$S$_4$, $x=0.15$ "
+HOLLISTERITE*,Khatyrka,0,0,0,0, Al$_3$Fe 
+HUTCHEONITE,Allende,1,0,0,0, Ca$_3$Ti$_2$(SiAl$_2$)O$_{12}$ 
+JOEGOLDSTEINITE,Social Circle,0,0,1,0, MnCr$_2$S$_4$ 
+KAITIANITE*,Allende,1,0,0,0, Ti${^3+}$$_2$Ti$^{4+}$O$_5$ 
+KANGITE,Allende,1,0,0,0," (Sc,Ti,Al,Zr,Mg,Ca)$_2$O$_3$ "
+KEILITE*,Abee;Adhi-Kot;Saint-Sauveur,1,0,0,0," (Fe,Mn,Mg,Ca,Cr)S "
+KRINOVITE,Canyon Diablo,0,0,2,0, Na$_2$Mg$_4$Cr$_2$[Si$_6$O$_{18}$]O$_2$ 
+KROTITE,NWA1934,0,0,0,0, CaAl$_2$O$_4$ 
+KRYACHKOITE,Khatyrka,0,0,0,0," (Al,Cu)$_6$(Fe,Cu) "
+LINGUNITE*,Sixiangkou,0,0,0,0," (Na,Ca)AlSi$_3$O$_8$ "
+MACHIITE*,Murchison,0,0,1,0," (Al,Sc)$_2$(Ti$^{4+}$,Zr)$_3$O$_9$ "
+MAJINDEITE,Allende;Qutrixpileo,1,0,0,0, Mg$_2$Mo$_3$O$_8$ 
+MELLINIITE,NWA 1054,0,0,0,0," (Ni,Fe)$_4$P "
+MERRIHUEITE,Madaras;Mezmadaras,0,0,0,0," (K,Na)$_2$(Fe$^{2+}$,Mg)$_5$Si$_{12}$O$_{30}$ "
+MONIPITE,Canyon Diablo;Allende,1,0,2,0, MoNiP 
+MORASKOITE*,Morasko,1,0,0,0, Na$_2$Mg(PO$_4$)F 
+MURCHISITE*,Murchison,0,0,1,0, Cr$_5$S$_6$ 
+NIERITE*,Andrar;Inman;Tieschitz;Indarch,0,0,0,1, Si$_3$N$_4$ 
+NUWAITE,Allende,1,0,0,0," Ni$_6$(Ge,Sn)(S,Te)$_2$ "
+OLDHAMITE*,Bustee,0,1,0,0," (Ca,Mg)S "
+PANETHITE,Dayton,1,0,0,0," (Na,Ca)$_2$(Mg,Fe)$_2$(PO$_4$)$_2$ "
+PANGUITE,Allende,1,0,0,0," (Ti$^{4+}$,Sc,Al,Mg,Zr,Ca)$_{1.8}$O$_3$ "
+PAQUEITE*,Allende,1,0,0,0, Ca$_3$TiS$_2$(Al$_2$Ti)O$_{14}$ 
+ROALDITE,Jerslev;Youndegin,2,0,0,0," (Fe,Zn)S "
+RUBINITE*,Vigarano,1,0,0,0, Ca$_3$Ti$^{3+}$$_2$Si$_3$O$_{12}$ 
+RUDASHEVSKYITE*,Indarch,0,0,0,1," (Fe,Ni)$_3$P "
+SINOITE,Jajh deh Kot Lalu,0,0,1,0, Si$_2$N$_2$O 
+STANFIELDITE*,Estherville,1,0,0,0," Ca$_4$(Mg,Fe$^{2+}$,Mn$^{2+}$)$_5$(PO$_4$)$_6$ "
+SUESSITE,North Haig,0,0,1,0, Fe$_3$Si 
+TISTARITE*,Allende,1,0,0,0, Ti$_2$O$_3$ 
+TROILITE*,Albareto,1,0,0,0, FeS 
+UAKITITE*,Uakit,0,0,0,0, (V$_{0.91}$Cr$_{0.07}$Fe$_{0.02}$)$_{1.00}$N$_{1.00}$ 
+WADSLEYITE*,Peace River,1,0,0,0," $\beta$-(Mg,Fe)$_2$SiO$_4$ "
+WARKITE,Murchison meteorite,0,0,0,0, Ca$_2$Sc$_6$Al$_6$O$_{20}$ 
+WASSONITE*,Yamato 691,0,0,0,0, TiS 
+XIEITE,Suizhou,1,0,0,0, FeCr$_2$O$_4$ 
+YAGIITE,Colomera,1,0,0,0," (Na,K)$_{1.5}$Mg$_2$(Al,Mg)$_3$(Si,Al)$_{12}$O$_{30}$ "

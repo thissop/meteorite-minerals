@@ -17,8 +17,18 @@ xor = np.setxor1d(synth_to_remove, on_earth_to_remove)
 both = np.intersect1d(synth_to_remove, on_earth_to_remove)
 
 to_remove = np.append(xor, both)
-print(names, to_remove)
 to_keep = np.setdiff1d(names, to_remove)
 
-final_df = pd.DataFrame(to_keep, columns=['mineral_name'])
-final_df.to_csv('final_sample.csv', index=False)
+print(to_keep.shape, xor.shape)
+
+synth_to_keep = xor
+
+final_list = np.append(to_keep, synth_to_keep)
+
+print(final_list.shape)
+
+to_keep_df = pd.DataFrame(to_keep, columns=['mineral_name'])
+to_keep_df.to_csv('final_sample.csv', index=False)
+
+synth_df = pd.DataFrame(synth_to_keep, columns=['mineral_name'])
+synth_df.to_csv('synth_sample.csv',index=False)
