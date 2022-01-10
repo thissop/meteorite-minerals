@@ -9,3 +9,4 @@
     * ```pallasite_count```: lists how many occurances in pallasite meteorites for each mineral
     * ```chemical_formula```: contains LaTeX versions of each mineral's chemical formula
 * Please note that as discussed in the text, these results are preliminary and are limited to the extent of the Athena and ASU databases utilized in this work. 
+* Also, in the text we mention the database has information on 81 minerals ... it is currently limited to 68 but I (https://github.com/thissop/) I am working on fixing it (some data was lost when a virtual machine got corrupted). 
